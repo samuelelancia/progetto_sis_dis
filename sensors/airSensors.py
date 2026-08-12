@@ -6,7 +6,7 @@ class AirSensor(BaseSensor):
     def simulate(self):
             return {
                 "sensor_id": self.sensor_id,
-                "segment": self.position_id,
+                "location": self.position_id,
                 "timestamp": time.time(),
                 "type": "air",
                 #Soglia di attenzione: Tra 1.000 e 1.500 ppm (aria viziata, calo di attenzione)

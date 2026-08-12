@@ -11,7 +11,7 @@ class TrafficSensor(BaseSensor):
     def simulate(self):
         return {
             "sensor_id": self.sensor_id,
-            "segment": self.position_id,
+            "location": self.position_id,
             "timestamp": time.time(),
             "type": "traffic",
             "vehicles_per_min": random.randint(0, 30),
