@@ -34,7 +34,7 @@ class FaultManager:
                 self.status[sensor_id] = "offline"
                 offline.append(sensor_id)
 
-        return offline
+        return offline, now
 
     def get_status(self, sensor_id):
         #unknown e' il risultato di default se non trovo la chiave
@@ -42,6 +42,6 @@ class FaultManager:
     
     def check_fault(self, type, sensor_id):
         if type  == "fault":
-            self.mark_fault()
+            self.mark_fault(sensor_id)
             return True
         return False

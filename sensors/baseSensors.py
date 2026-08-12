@@ -54,7 +54,10 @@ class BaseSensor:
               
             #messaggio corrotto
             if random.random() < 0.05:
-                payload = {"type": "corrupt"}
+                payload = {
+                    "sensor_id": self.sensor_id,
+                    "type": "corrupt"
+                }
              
             #invio il messaggio e sleep di un secondo
             socket.send_string(json.dumps(payload))

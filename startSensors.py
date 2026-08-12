@@ -17,8 +17,10 @@ def start_sensors():
     #sensori traffico: uno per ogni segmento
     for segment in map["segments"]:
         seg_id = segment["id"]
-        sensor_id = i
-        i=1+1
+        sensor_id = id
+        id=id+1
+        
+        print("Avvio sensore", id)
         sensor = TrafficSensor(sensor_id, seg_id)
 
         t = Thread(target=sensor.run)
@@ -28,9 +30,11 @@ def start_sensors():
     #sensori aria:uno per ogni incorcio
     for intersection in map["intersections"]:
         int_id = intersection["id"]
-        sensor_id = i
-        i=1+1
-        sensor = TrafficSensor(sensor_id, int_id)
+        sensor_id = id
+        id=id+1
+        
+        print("Avvio sensore", id)
+        sensor = AirSensor(sensor_id, int_id)
 
         t = Thread(target=sensor.run)
         t.start()
