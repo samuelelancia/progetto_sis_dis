@@ -1,0 +1,51 @@
+{
+  "city_name": "SmartCity Demo",
+  "description": "Mappa con 3 strade divise in segmenti. in ogni segmento c'è un sensore di traffico, in ogni incrocio un sensore di aria.",
+  "version": "1",
+
+  "streets": [
+    {
+      "id": "H1",
+      "name": "Strada Orizzontale",
+      "type": "horizontal",
+      "segments": ["H1.1", "H1.2", "H1.3"]
+    },
+    {
+      "id": "V1",
+      "name": "Strada Verticale Ovest",
+      "type": "vertical",
+      "segments": ["V1.1", "V1.2"]
+    },
+    {
+      "id": "V2",
+      "name": "Strada Verticale Est",
+      "type": "vertical",
+      "segments": ["V2.1", "V2.2"]
+    }
+  ],
+
+  "intersections": [
+    {
+      "id": "A",
+      "name": "Incrocio A",
+      "streets": ["H1", "V1"]
+    },
+    {
+      "id": "B",
+      "name": "Incrocio B",
+      "streets": ["H1", "V2"]
+    }
+  ],
+
+  "segments": [
+    { "id": "H1.1", "parent": "H1", "from": "start", "to": "A" },
+    { "id": "H1.2", "parent": "H1", "from": "A", "to": "B" },
+    { "id": "H1.3", "parent": "H1", "from": "B", "to": "end" },
+
+    { "id": "V1.1", "parent": "V1", "from": "start", "to": "A" },
+    { "id": "V1.2", "parent": "V1", "from": "A", "to": "end" },
+
+    { "id": "V2.1", "parent": "V2", "from": "start", "to": "B" },
+    { "id": "V2.2", "parent": "V2", "from": "B", "to": "end" }
+  ]
+}
