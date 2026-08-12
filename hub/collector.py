@@ -1,6 +1,7 @@
 import zmq
 import json
 
+#colleziona i messaggi in arrivo e li restituisce al main
 class Collector:
     def __init__(self):
         context = zmq.Context()

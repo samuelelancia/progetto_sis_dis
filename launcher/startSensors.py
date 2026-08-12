@@ -3,6 +3,7 @@ from threading import Thread
 from sensors.trafficSensors import TrafficSensor
 from sensors.airSensors import AirSensor
 
+#carico la mappa salvata nel json
 def load_map():
     with open("config/map.json") as f:
         return json.load(f)
@@ -13,7 +14,7 @@ def start_sensors():
     threads = []
     id=1
     
-    #Sensori traffico: uno per ogni segmento
+    #sensori traffico: uno per ogni segmento
     for segment in map["segments"]:
         seg_id = segment["id"]
         sensor_id = i
@@ -24,6 +25,7 @@ def start_sensors():
         t.start()
         threads.append(t)
         
+    #sensori aria:uno per ogni incorcio
     for intersection in map["intersections"]:
         int_id = intersection["id"]
         sensor_id = i

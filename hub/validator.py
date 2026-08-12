@@ -1,5 +1,5 @@
 class Validator:
-    #campi minimi del messaggio
+    #controlla i campi minimi del messaggio
     REQUIRED_FIELDS = ["sensor_id", "location", "timestamp", "type"]
 
     def validate(self, msg):
