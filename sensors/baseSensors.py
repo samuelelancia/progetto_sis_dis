@@ -6,10 +6,18 @@ import zmq
 class BaseSensor:
     
     #i sensori hanno un id, e una posizione
-    def __init__(self, sensor_id, position_id, interval=1):
+    def __init__(self, sensor_id, position_id):
         self.sensor_id=sensor_id
         self.position_id=position_id
-        self.interval=interval
+        
+        with open("config/system.json") as f:
+                cfg = json.load(f)
+                    
+        self.interval=cfg["sensor_interval"]
+        self.fault_chance = cfg["fault_chance"]
+        self.death_chance = cfg["death_chance"]
+        self.corrupt_chance = cfg["corrupt_chance"]
+        self.death_time = cfg["death_time"]
     
     #funzione definita nelle sottoclassi
     def simulate(self):
@@ -18,7 +26,7 @@ class BaseSensor:
     #simulo una fault inviando un messaggio specifico
     def check_fault(self):
         # 5% probabilità di fault
-        if random.random() < 0.05:
+        if random.random() < self.fault_chance:
             return "fault"
         return None
     
@@ -32,9 +40,9 @@ class BaseSensor:
         
         while True:
             
-            if random.random() < 0.05:
-                print("Sensore",self.sensor_id,": morto per 3 secondi")
-                time.sleep(3)
+            if random.random() < self.death_chance:
+                print("Sensore",self.sensor_id,": morto per ",self.death_time," secondi")
+                time.sleep(self.death_time)
                 continue
             
             #controllo fault
@@ -53,7 +61,7 @@ class BaseSensor:
                 payload=self.simulate()
               
             #messaggio corrotto
-            if random.random() < 0.05:
+            if random.random() < self.corrupt_chance:
                 payload = {
                     "sensor_id": self.sensor_id,
                     "type": "corrupt"

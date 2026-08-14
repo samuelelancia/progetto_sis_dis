@@ -1,0 +1,8 @@
+{
+    "sensor_interval": 1,
+    "fault_chance": 0.05,
+    "death_chance": 0.05,
+    "corrupt_chance": 0.05,
+    "death_time": 3,
+    "fault_manager_timeout": 2
+}

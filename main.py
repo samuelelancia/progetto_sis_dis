@@ -27,9 +27,10 @@ def main():
         
         faults.mark_seen(msg["sensor_id"])
         
-        if faults.check_fault(msg["type"], msg["sensor_id"]):
+        fault_count=faults.check_fault(msg["type"], msg["sensor_id"])
+        if fault_count:
             print("Fault rilevata:", msg)
-            logger.log_fault( time.time() ,msg["sensor_id"],msg["type"])
+            logger.log_fault( time.time() ,msg["sensor_id"],msg["type"],fault_count)
             continue
 
         state.update(msg)

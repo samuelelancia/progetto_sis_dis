@@ -7,11 +7,12 @@ class Logger:
         self.fault_file = fault_file
         self.data_file = data_file
 
-    def log_fault(self, timestamp, sensor_id, state):
+    def log_fault(self, timestamp, sensor_id, state, count):
         entry = {
             "timestamp": timestamp,
             "sensor_id": sensor_id,
-            "state": state
+            "state": state,
+            "number_of_faults": count
         }
         with open(self.fault_file, "a") as f:
             f.write(json.dumps(entry) + "\n")
