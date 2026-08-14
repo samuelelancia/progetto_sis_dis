@@ -38,7 +38,7 @@ class FaultManager:
 
         #vedo la differenza tra i tempi
         for sensor_id, ts in self.last_seen.items():
-            if (now - ts > self.timeout) and self.status[sensor_id]!="offline":
+            if (now - ts > self.timeout) and self.status.get(sensor_id, "ok")!="offline":
                 self.status[sensor_id] = "offline"
                 offline.append(sensor_id)
 

@@ -18,29 +18,37 @@ def main():
     print("Nodo centrale avviato...")
 
     while True:
+        #arriva il messaggio
         msg = collector.receive()
         
+        #controllo se e' valido
         if not validator.validate(msg):
             print("Messaggio non valido:", msg)
-            logger.log_fault( time.time() ,msg["sensor_id"],msg["type"])
+            logger.log_corrupt_offline( time.time() ,msg["sensor_id"],msg["type"])
             continue
         
+        #aggiorno last seen
         faults.mark_seen(msg["sensor_id"])
         
+        #controllo fault
         fault_count=faults.check_fault(msg["type"], msg["sensor_id"])
         if fault_count:
             print("Fault rilevata:", msg)
-            logger.log_fault( time.time() ,msg["sensor_id"],msg["type"],fault_count)
+            logger.log_fault( time.time() ,msg["sensor_id"], msg["type"], fault_count)
             continue
 
+        #aggiorno gli ultimi messaggi visti
         state.update(msg)
         
+        #efettuo log dei dati
         logger.log_data(msg)
         
+        #controllo sensori offline
         offline, ts=faults.check_offline()
         for offline_id in offline:
-            logger.log_fault(ts, offline_id, "offline")
+            logger.log_corrupt_offline(ts, offline_id, "offline")
 
+        #stampo ultimi messaggi visti
         summary = aggregator.get_summary()
         print("Stato aggiornato:", summary)
 

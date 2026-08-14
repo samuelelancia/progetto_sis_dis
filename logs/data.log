@@ -1,120 +1,1178 @@
-{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786551746.7529545, "type": "traffic", "vehicles_per_min": 16, "avg_speed": 23}}
-{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786551746.776315, "type": "traffic", "vehicles_per_min": 28, "avg_speed": 24}}
-{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786551746.8048325, "type": "traffic", "vehicles_per_min": 20, "avg_speed": 20}}
-{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786551746.830665, "type": "traffic", "vehicles_per_min": 29, "avg_speed": 16}}
-{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786551746.896963, "type": "traffic", "vehicles_per_min": 17, "avg_speed": 28}}
-{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786551746.8971236, "type": "traffic", "vehicles_per_min": 15, "avg_speed": 32}}
-{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786551746.9322662, "type": "traffic", "vehicles_per_min": 28, "avg_speed": 15}}
-{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786551746.977146, "type": "air", "co2": 1328.3560700267901, "pm10": 25.124405296823042, "pm2_5": 19.942612097242225}}
-{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786551747.020808, "type": "air", "co2": 1284.0738505867896, "pm10": 31.739800913973628, "pm2_5": 19.036044729629985}}
-{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786551747.7771955, "type": "traffic", "vehicles_per_min": 16, "avg_speed": 25}}
-{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786551747.8421488, "type": "traffic", "vehicles_per_min": 8, "avg_speed": 30}}
-{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786551747.8618515, "type": "traffic", "vehicles_per_min": 4, "avg_speed": 36}}
-{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786551747.914814, "type": "traffic", "vehicles_per_min": 7, "avg_speed": 18}}
-{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786551747.9190981, "type": "traffic", "vehicles_per_min": 15, "avg_speed": 22}}
-{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786551747.9380388, "type": "traffic", "vehicles_per_min": 5, "avg_speed": 18}}
-{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786551747.9875925, "type": "air", "co2": 1309.4987070931943, "pm10": 33.23822480468248, "pm2_5": 15.764048323678765}}
-{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786551748.0420659, "type": "air", "co2": 1028.1562185163077, "pm10": 28.91057649867323, "pm2_5": 14.681317993042498}}
-{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786551748.7786055, "type": "traffic", "vehicles_per_min": 9, "avg_speed": 13}}
-{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786551748.8432956, "type": "traffic", "vehicles_per_min": 1, "avg_speed": 16}}
-{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786551748.8632686, "type": "traffic", "vehicles_per_min": 20, "avg_speed": 38}}
-{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786551748.9157195, "type": "traffic", "vehicles_per_min": 8, "avg_speed": 40}}
-{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786551748.9206023, "type": "traffic", "vehicles_per_min": 11, "avg_speed": 14}}
-{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786551748.939068, "type": "traffic", "vehicles_per_min": 16, "avg_speed": 15}}
-{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786551748.9891317, "type": "air", "co2": 1140.9852670892085, "pm10": 32.79506267208487, "pm2_5": 11.846576710826396}}
-{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786551749.043353, "type": "air", "co2": 1158.9958859015983, "pm10": 31.741690149457945, "pm2_5": 15.530294985099783}}
-{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786551749.8449605, "type": "traffic", "vehicles_per_min": 3, "avg_speed": 28}}
-{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786551749.8707068, "type": "traffic", "vehicles_per_min": 15, "avg_speed": 37}}
-{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786551749.9161627, "type": "traffic", "vehicles_per_min": 12, "avg_speed": 28}}
-{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786551749.922094, "type": "traffic", "vehicles_per_min": 9, "avg_speed": 27}}
-{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786551749.9394865, "type": "traffic", "vehicles_per_min": 7, "avg_speed": 11}}
-{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786551749.990227, "type": "air", "co2": 1196.2298784528225, "pm10": 30.256785243626343, "pm2_5": 15.479745862443444}}
-{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786551750.0444164, "type": "air", "co2": 1064.6634715680887, "pm10": 28.10166944188819, "pm2_5": 14.783090951533595}}
-{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786551750.7574875, "type": "traffic", "vehicles_per_min": 4, "avg_speed": 32}}
-{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786551750.781151, "type": "traffic", "vehicles_per_min": 25, "avg_speed": 19}}
-{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786551750.8457692, "type": "traffic", "vehicles_per_min": 25, "avg_speed": 29}}
-{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786551750.8786397, "type": "traffic", "vehicles_per_min": 27, "avg_speed": 11}}
-{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786551750.9169784, "type": "traffic", "vehicles_per_min": 30, "avg_speed": 16}}
-{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786551750.9228358, "type": "traffic", "vehicles_per_min": 1, "avg_speed": 27}}
-{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786551750.942275, "type": "traffic", "vehicles_per_min": 8, "avg_speed": 32}}
-{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786551750.9912417, "type": "air", "co2": 1423.1077987252227, "pm10": 28.246078276119842, "pm2_5": 11.680547994969915}}
-{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786551751.045175, "type": "air", "co2": 1434.093357796399, "pm10": 31.037279808933288, "pm2_5": 19.284110853067627}}
-{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786551751.7587256, "type": "traffic", "vehicles_per_min": 16, "avg_speed": 35}}
-{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786551751.78222, "type": "traffic", "vehicles_per_min": 26, "avg_speed": 15}}
-{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786551751.8466654, "type": "traffic", "vehicles_per_min": 2, "avg_speed": 26}}
-{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786551751.8807206, "type": "traffic", "vehicles_per_min": 9, "avg_speed": 40}}
-{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786551751.918258, "type": "traffic", "vehicles_per_min": 0, "avg_speed": 40}}
-{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786551751.943039, "type": "traffic", "vehicles_per_min": 12, "avg_speed": 13}}
-{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786551751.9920316, "type": "air", "co2": 1436.9765406671036, "pm10": 34.61946961982299, "pm2_5": 13.190837217836851}}
-{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786551752.0462418, "type": "air", "co2": 1313.8138933687735, "pm10": 29.10980438284207, "pm2_5": 13.823713890121514}}
-{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786551752.7595825, "type": "traffic", "vehicles_per_min": 15, "avg_speed": 33}}
-{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786551752.7836447, "type": "traffic", "vehicles_per_min": 3, "avg_speed": 31}}
-{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786551752.8478744, "type": "traffic", "vehicles_per_min": 1, "avg_speed": 38}}
-{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786551752.8814273, "type": "traffic", "vehicles_per_min": 24, "avg_speed": 34}}
-{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786551752.919594, "type": "traffic", "vehicles_per_min": 8, "avg_speed": 31}}
-{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786551752.9929087, "type": "air", "co2": 1384.2685301513916, "pm10": 32.81526107245239, "pm2_5": 14.270485839689222}}
-{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786551753.046883, "type": "air", "co2": 1349.2417271682293, "pm10": 29.821732842373418, "pm2_5": 17.3476422836301}}
-{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786551753.7842093, "type": "traffic", "vehicles_per_min": 12, "avg_speed": 40}}
-{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786551753.8823519, "type": "traffic", "vehicles_per_min": 22, "avg_speed": 18}}
-{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786551753.9206226, "type": "traffic", "vehicles_per_min": 19, "avg_speed": 40}}
-{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786551753.9455042, "type": "traffic", "vehicles_per_min": 16, "avg_speed": 34}}
-{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786551753.9937117, "type": "air", "co2": 1369.2469840971664, "pm10": 26.237911042496684, "pm2_5": 18.745944140223102}}
-{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786551754.78535, "type": "traffic", "vehicles_per_min": 29, "avg_speed": 29}}
-{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786551754.8493235, "type": "traffic", "vehicles_per_min": 20, "avg_speed": 39}}
-{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786551754.8853621, "type": "traffic", "vehicles_per_min": 16, "avg_speed": 34}}
-{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786551754.921445, "type": "traffic", "vehicles_per_min": 24, "avg_speed": 24}}
-{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786551754.9249377, "type": "traffic", "vehicles_per_min": 26, "avg_speed": 31}}
-{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786551754.9459283, "type": "traffic", "vehicles_per_min": 26, "avg_speed": 31}}
-{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786551754.9945545, "type": "air", "co2": 1258.540120763448, "pm10": 29.45459195566483, "pm2_5": 14.629786103715185}}
-{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786551755.7885926, "type": "traffic", "vehicles_per_min": 25, "avg_speed": 24}}
-{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786551755.8902092, "type": "traffic", "vehicles_per_min": 2, "avg_speed": 28}}
-{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786551755.9242418, "type": "traffic", "vehicles_per_min": 15, "avg_speed": 28}}
-{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786551755.9500446, "type": "traffic", "vehicles_per_min": 9, "avg_speed": 10}}
-{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786551755.995407, "type": "air", "co2": 1153.673459923935, "pm10": 30.801947206694358, "pm2_5": 10.141501447166595}}
-{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786551756.761759, "type": "traffic", "vehicles_per_min": 8, "avg_speed": 37}}
-{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786551756.850328, "type": "traffic", "vehicles_per_min": 8, "avg_speed": 18}}
-{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786551756.9249165, "type": "traffic", "vehicles_per_min": 21, "avg_speed": 13}}
-{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786551756.9264257, "type": "traffic", "vehicles_per_min": 18, "avg_speed": 39}}
-{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786551756.9505098, "type": "traffic", "vehicles_per_min": 24, "avg_speed": 14}}
-{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786551757.0483637, "type": "air", "co2": 1021.1993967453449, "pm10": 26.092341145580466, "pm2_5": 11.46833934364275}}
-{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786551757.762835, "type": "traffic", "vehicles_per_min": 28, "avg_speed": 35}}
-{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786551757.7900503, "type": "traffic", "vehicles_per_min": 21, "avg_speed": 33}}
-{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786551757.8512695, "type": "traffic", "vehicles_per_min": 14, "avg_speed": 14}}
-{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786551757.8918788, "type": "traffic", "vehicles_per_min": 23, "avg_speed": 29}}
-{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786551757.9258125, "type": "traffic", "vehicles_per_min": 21, "avg_speed": 13}}
-{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786551757.928239, "type": "traffic", "vehicles_per_min": 9, "avg_speed": 40}}
-{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786551757.954849, "type": "traffic", "vehicles_per_min": 9, "avg_speed": 38}}
-{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786551758.763832, "type": "traffic", "vehicles_per_min": 4, "avg_speed": 10}}
-{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786551758.7905488, "type": "traffic", "vehicles_per_min": 6, "avg_speed": 33}}
-{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786551758.8519022, "type": "traffic", "vehicles_per_min": 19, "avg_speed": 36}}
-{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786551758.8926463, "type": "traffic", "vehicles_per_min": 17, "avg_speed": 13}}
-{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786551759.0496738, "type": "air", "co2": 1148.9609870501574, "pm10": 28.58020460772476, "pm2_5": 14.846974296675256}}
-{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786551759.764541, "type": "traffic", "vehicles_per_min": 1, "avg_speed": 19}}
-{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786551759.7927208, "type": "traffic", "vehicles_per_min": 22, "avg_speed": 15}}
-{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786551759.8524086, "type": "traffic", "vehicles_per_min": 13, "avg_speed": 12}}
-{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786551759.9981494, "type": "air", "co2": 1373.075807493507, "pm10": 26.181619646557206, "pm2_5": 19.1022431197211}}
-{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786551760.0505521, "type": "air", "co2": 1271.512848075356, "pm10": 28.51063613347454, "pm2_5": 13.979469258231685}}
-{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786551760.7655938, "type": "traffic", "vehicles_per_min": 21, "avg_speed": 38}}
-{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786551760.7933834, "type": "traffic", "vehicles_per_min": 14, "avg_speed": 25}}
-{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786551760.8529093, "type": "traffic", "vehicles_per_min": 29, "avg_speed": 15}}
-{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786551760.8982766, "type": "traffic", "vehicles_per_min": 8, "avg_speed": 29}}
-{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786551760.9588447, "type": "traffic", "vehicles_per_min": 19, "avg_speed": 26}}
-{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786551761.0026877, "type": "air", "co2": 1073.42320576874, "pm10": 26.505812941798556, "pm2_5": 18.45079887055894}}
-{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786551761.052451, "type": "air", "co2": 1226.3214595132044, "pm10": 32.27723788698873, "pm2_5": 10.466294543767301}}
-{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786551761.7665296, "type": "traffic", "vehicles_per_min": 28, "avg_speed": 27}}
-{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786551761.8556385, "type": "traffic", "vehicles_per_min": 18, "avg_speed": 32}}
-{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786551761.8992643, "type": "traffic", "vehicles_per_min": 27, "avg_speed": 22}}
-{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786551761.928251, "type": "traffic", "vehicles_per_min": 6, "avg_speed": 23}}
-{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786551761.9593873, "type": "traffic", "vehicles_per_min": 0, "avg_speed": 29}}
-{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786551762.0033355, "type": "air", "co2": 1166.6179204563098, "pm10": 34.16388493211683, "pm2_5": 11.555693152150114}}
-{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786551762.8566022, "type": "traffic", "vehicles_per_min": 12, "avg_speed": 30}}
-{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786551762.9048526, "type": "traffic", "vehicles_per_min": 2, "avg_speed": 34}}
-{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786551762.9298027, "type": "traffic", "vehicles_per_min": 2, "avg_speed": 34}}
-{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786551762.9662879, "type": "traffic", "vehicles_per_min": 1, "avg_speed": 35}}
-{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786551763.0041714, "type": "air", "co2": 1119.4715665087526, "pm10": 29.07062201544206, "pm2_5": 16.873798200794276}}
-{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786551763.0537338, "type": "air", "co2": 1438.6096334871065, "pm10": 31.984887976490533, "pm2_5": 10.578386885460311}}
-{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786551763.8578477, "type": "traffic", "vehicles_per_min": 12, "avg_speed": 15}}
-{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786551763.9056642, "type": "traffic", "vehicles_per_min": 21, "avg_speed": 27}}
-{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786551763.9311874, "type": "traffic", "vehicles_per_min": 1, "avg_speed": 21}}
-{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786551764.00594, "type": "air", "co2": 1179.3825605840477, "pm10": 34.26940354011326, "pm2_5": 12.241585429401662}}
-{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786551764.0549018, "type": "air", "co2": 1435.0982613663487, "pm10": 28.462213362190134, "pm2_5": 16.41423176972118}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696162.3440204, "type": "traffic", "vehicles_per_min": 29, "avg_speed": 22}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696162.382236, "type": "traffic", "vehicles_per_min": 13, "avg_speed": 40}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696162.4202776, "type": "traffic", "vehicles_per_min": 18, "avg_speed": 33}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696162.4662557, "type": "traffic", "vehicles_per_min": 28, "avg_speed": 19}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696162.5178063, "type": "traffic", "vehicles_per_min": 7, "avg_speed": 36}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696162.5486655, "type": "traffic", "vehicles_per_min": 28, "avg_speed": 20}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696162.597106, "type": "air", "co2": 1307.578452892163, "pm10": 33.95048985296309, "pm2_5": 18.606822545090974}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696163.3505101, "type": "traffic", "vehicles_per_min": 11, "avg_speed": 11}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696292.4909878, "type": "traffic", "vehicles_per_min": 0, "avg_speed": 25}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696292.5721438, "type": "traffic", "vehicles_per_min": 12, "avg_speed": 19}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696292.6249166, "type": "traffic", "vehicles_per_min": 8, "avg_speed": 34}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696292.6654296, "type": "traffic", "vehicles_per_min": 25, "avg_speed": 18}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696292.7838817, "type": "traffic", "vehicles_per_min": 12, "avg_speed": 32}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696292.8269792, "type": "traffic", "vehicles_per_min": 26, "avg_speed": 32}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696292.8656533, "type": "air", "co2": 1086.1158674991275, "pm10": 34.05490139656932, "pm2_5": 16.76843153738562}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696292.9068336, "type": "air", "co2": 1261.0870880415735, "pm10": 28.241721755607966, "pm2_5": 16.796856509630388}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696293.4922523, "type": "traffic", "vehicles_per_min": 22, "avg_speed": 24}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696293.5731423, "type": "traffic", "vehicles_per_min": 10, "avg_speed": 14}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696293.827833, "type": "traffic", "vehicles_per_min": 21, "avg_speed": 34}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696293.8664563, "type": "air", "co2": 1412.6926732610377, "pm10": 28.791671295661722, "pm2_5": 15.58475281158523}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696294.4935384, "type": "traffic", "vehicles_per_min": 0, "avg_speed": 21}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696294.5741706, "type": "traffic", "vehicles_per_min": 6, "avg_speed": 23}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696294.6672523, "type": "traffic", "vehicles_per_min": 4, "avg_speed": 21}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696454.1164463, "type": "traffic", "vehicles_per_min": 23, "avg_speed": 36}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696454.1437466, "type": "traffic", "vehicles_per_min": 1, "avg_speed": 33}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696454.1671627, "type": "traffic", "vehicles_per_min": 18, "avg_speed": 14}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696454.1983693, "type": "traffic", "vehicles_per_min": 4, "avg_speed": 39}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696454.2420547, "type": "traffic", "vehicles_per_min": 4, "avg_speed": 21}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696454.2810729, "type": "traffic", "vehicles_per_min": 10, "avg_speed": 12}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696454.337395, "type": "air", "co2": 1399.007911431819, "pm10": 26.591974210989346, "pm2_5": 17.450075796164956}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696455.1174014, "type": "traffic", "vehicles_per_min": 1, "avg_speed": 22}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696455.160605, "type": "traffic", "vehicles_per_min": 11, "avg_speed": 29}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696455.1800206, "type": "traffic", "vehicles_per_min": 9, "avg_speed": 39}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696455.202649, "type": "traffic", "vehicles_per_min": 18, "avg_speed": 33}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696455.2270906, "type": "traffic", "vehicles_per_min": 6, "avg_speed": 40}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696455.24283, "type": "traffic", "vehicles_per_min": 14, "avg_speed": 25}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696455.2816687, "type": "traffic", "vehicles_per_min": 6, "avg_speed": 38}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696455.3380387, "type": "air", "co2": 1035.1047424218793, "pm10": 28.51794877972595, "pm2_5": 14.936408816777682}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696456.1201854, "type": "traffic", "vehicles_per_min": 9, "avg_speed": 14}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696456.162295, "type": "traffic", "vehicles_per_min": 24, "avg_speed": 32}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696456.181103, "type": "traffic", "vehicles_per_min": 7, "avg_speed": 36}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696456.2058706, "type": "traffic", "vehicles_per_min": 25, "avg_speed": 37}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696456.2277825, "type": "traffic", "vehicles_per_min": 29, "avg_speed": 34}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696456.2435617, "type": "traffic", "vehicles_per_min": 25, "avg_speed": 22}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696456.2826626, "type": "traffic", "vehicles_per_min": 19, "avg_speed": 33}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696456.341589, "type": "air", "co2": 1238.6586775550818, "pm10": 28.76631492285125, "pm2_5": 18.194304266684387}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696457.1212704, "type": "traffic", "vehicles_per_min": 11, "avg_speed": 33}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696457.163314, "type": "traffic", "vehicles_per_min": 2, "avg_speed": 19}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696457.1848948, "type": "traffic", "vehicles_per_min": 8, "avg_speed": 22}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696457.2089489, "type": "traffic", "vehicles_per_min": 16, "avg_speed": 18}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696457.2331688, "type": "traffic", "vehicles_per_min": 6, "avg_speed": 31}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696457.2475443, "type": "traffic", "vehicles_per_min": 30, "avg_speed": 17}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696457.283427, "type": "traffic", "vehicles_per_min": 30, "avg_speed": 37}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696457.310372, "type": "air", "co2": 1160.2859072851134, "pm10": 28.561324458358744, "pm2_5": 11.366918244346774}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696457.342464, "type": "air", "co2": 1312.2678831006285, "pm10": 27.721647603526986, "pm2_5": 16.702740033001596}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696458.122241, "type": "traffic", "vehicles_per_min": 19, "avg_speed": 25}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696458.164143, "type": "traffic", "vehicles_per_min": 14, "avg_speed": 14}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696458.1860003, "type": "traffic", "vehicles_per_min": 8, "avg_speed": 38}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696458.2099853, "type": "traffic", "vehicles_per_min": 16, "avg_speed": 22}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696458.2460237, "type": "traffic", "vehicles_per_min": 11, "avg_speed": 37}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696458.2593772, "type": "traffic", "vehicles_per_min": 7, "avg_speed": 34}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696458.3010972, "type": "traffic", "vehicles_per_min": 1, "avg_speed": 12}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696458.342583, "type": "air", "co2": 1034.4700185474824, "pm10": 33.56480125163672, "pm2_5": 10.435370803538751}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696459.165281, "type": "traffic", "vehicles_per_min": 11, "avg_speed": 14}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696459.1872675, "type": "traffic", "vehicles_per_min": 5, "avg_speed": 32}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696459.2507205, "type": "traffic", "vehicles_per_min": 12, "avg_speed": 19}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696459.2602127, "type": "traffic", "vehicles_per_min": 7, "avg_speed": 30}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696459.3016837, "type": "traffic", "vehicles_per_min": 4, "avg_speed": 30}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696459.3435514, "type": "air", "co2": 1246.893282382066, "pm10": 27.705140151301368, "pm2_5": 18.15944878839155}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696460.1663604, "type": "traffic", "vehicles_per_min": 26, "avg_speed": 39}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696460.1892807, "type": "traffic", "vehicles_per_min": 25, "avg_speed": 33}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696460.2519174, "type": "traffic", "vehicles_per_min": 11, "avg_speed": 12}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696460.2616527, "type": "traffic", "vehicles_per_min": 2, "avg_speed": 34}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696460.302913, "type": "traffic", "vehicles_per_min": 21, "avg_speed": 23}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696460.3443055, "type": "air", "co2": 1238.8671060917923, "pm10": 27.931172572013683, "pm2_5": 16.059549893412722}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696461.1915588, "type": "traffic", "vehicles_per_min": 15, "avg_speed": 28}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696461.2527092, "type": "traffic", "vehicles_per_min": 3, "avg_speed": 25}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696461.2624476, "type": "traffic", "vehicles_per_min": 13, "avg_speed": 24}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696461.303768, "type": "traffic", "vehicles_per_min": 4, "avg_speed": 33}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696461.348164, "type": "air", "co2": 1354.3637204113047, "pm10": 28.712292924968416, "pm2_5": 12.221272894814918}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696461.383803, "type": "air", "co2": 1079.158566020425, "pm10": 25.18344716762141, "pm2_5": 10.728061153807628}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696462.1245716, "type": "traffic", "vehicles_per_min": 29, "avg_speed": 10}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696462.1953392, "type": "traffic", "vehicles_per_min": 1, "avg_speed": 20}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696462.212377, "type": "traffic", "vehicles_per_min": 20, "avg_speed": 16}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696462.2533402, "type": "traffic", "vehicles_per_min": 4, "avg_speed": 19}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696462.2629006, "type": "traffic", "vehicles_per_min": 18, "avg_speed": 17}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696462.3052144, "type": "traffic", "vehicles_per_min": 12, "avg_speed": 39}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696462.3488653, "type": "air", "co2": 1092.9776098382783, "pm10": 27.598060337149516, "pm2_5": 13.034903047810545}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696462.3850865, "type": "air", "co2": 1350.7452494075528, "pm10": 32.13554242502097, "pm2_5": 13.395642676375669}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696463.1255732, "type": "traffic", "vehicles_per_min": 9, "avg_speed": 19}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696463.1960278, "type": "traffic", "vehicles_per_min": 4, "avg_speed": 31}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696463.2134643, "type": "traffic", "vehicles_per_min": 21, "avg_speed": 29}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696463.2540421, "type": "traffic", "vehicles_per_min": 2, "avg_speed": 19}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696463.263343, "type": "traffic", "vehicles_per_min": 6, "avg_speed": 37}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696463.3062348, "type": "traffic", "vehicles_per_min": 25, "avg_speed": 30}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696463.3503246, "type": "air", "co2": 1345.181143510077, "pm10": 31.58107625830322, "pm2_5": 14.5666478142146}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696463.3863916, "type": "air", "co2": 1417.0922060780795, "pm10": 25.551654226445276, "pm2_5": 16.528104424713188}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696464.12684, "type": "traffic", "vehicles_per_min": 27, "avg_speed": 30}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696464.1689508, "type": "traffic", "vehicles_per_min": 3, "avg_speed": 13}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696464.1977637, "type": "traffic", "vehicles_per_min": 1, "avg_speed": 14}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696464.254757, "type": "traffic", "vehicles_per_min": 5, "avg_speed": 40}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696464.263872, "type": "traffic", "vehicles_per_min": 15, "avg_speed": 12}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696464.3072994, "type": "traffic", "vehicles_per_min": 9, "avg_speed": 22}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696464.351545, "type": "air", "co2": 1248.767589161534, "pm10": 34.20382704503687, "pm2_5": 16.681568991834382}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696464.3877897, "type": "air", "co2": 1091.4341275610777, "pm10": 34.43705913072712, "pm2_5": 13.592736060561037}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696465.127954, "type": "traffic", "vehicles_per_min": 26, "avg_speed": 10}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696465.1699684, "type": "traffic", "vehicles_per_min": 16, "avg_speed": 22}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696465.1985781, "type": "traffic", "vehicles_per_min": 5, "avg_speed": 19}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696465.2565806, "type": "traffic", "vehicles_per_min": 8, "avg_speed": 15}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696465.3535202, "type": "air", "co2": 1484.8724569034384, "pm10": 28.076697788814016, "pm2_5": 12.0195408000693}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696466.35446, "type": "air", "co2": 1302.4079236184434, "pm10": 31.932020355199022, "pm2_5": 19.7031835529989}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696467.355659, "type": "air", "co2": 1356.7657648928543, "pm10": 31.71797845336639, "pm2_5": 13.648365035916411}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696468.3569086, "type": "air", "co2": 1128.1429696938726, "pm10": 30.060836980159554, "pm2_5": 19.98227611070572}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696469.3576484, "type": "air", "co2": 1014.7178290709163, "pm10": 30.96707737235214, "pm2_5": 11.819653748642459}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696470.358887, "type": "air", "co2": 1025.8734703915131, "pm10": 31.552304423344722, "pm2_5": 16.361140928933466}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696471.3597622, "type": "air", "co2": 1340.4836000591465, "pm10": 33.041432947995794, "pm2_5": 15.261592412949152}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696472.3607447, "type": "air", "co2": 1020.0428613839715, "pm10": 28.27268841965389, "pm2_5": 12.118048853780012}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696473.361534, "type": "air", "co2": 1452.0848589374255, "pm10": 26.26679436305056, "pm2_5": 16.383618013581238}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696474.3624108, "type": "air", "co2": 1262.0935885516367, "pm10": 30.404850009806484, "pm2_5": 12.730755794583342}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696475.3632998, "type": "air", "co2": 1343.4303127469966, "pm10": 28.170244979335717, "pm2_5": 11.167301434454572}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696476.3643649, "type": "air", "co2": 1152.2874228937576, "pm10": 29.11588401357828, "pm2_5": 16.96850468424754}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696477.3652737, "type": "air", "co2": 1304.530026740164, "pm10": 32.076543229846486, "pm2_5": 11.228533578950264}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696478.365933, "type": "air", "co2": 1270.9214186811446, "pm10": 27.621589501713878, "pm2_5": 11.654442864595142}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696479.3668141, "type": "air", "co2": 1364.6081115264035, "pm10": 33.010909313414594, "pm2_5": 13.852756428769048}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696483.3698049, "type": "air", "co2": 1228.487862737586, "pm10": 25.189602768722967, "pm2_5": 11.939573665978006}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696484.3706532, "type": "air", "co2": 1033.4157181920768, "pm10": 27.460654285664766, "pm2_5": 15.206234027810691}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696485.3714573, "type": "air", "co2": 1485.3958933271495, "pm10": 29.299783985744078, "pm2_5": 14.40546718992028}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696486.3725069, "type": "air", "co2": 1459.862189370956, "pm10": 34.20581651425062, "pm2_5": 15.318723707523105}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696487.372976, "type": "air", "co2": 1135.3250628808635, "pm10": 28.788446204474702, "pm2_5": 12.643483370905088}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696488.3733745, "type": "air", "co2": 1194.9838194762892, "pm10": 29.67770387206019, "pm2_5": 18.665737683263508}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696489.3744237, "type": "air", "co2": 1432.6898996520151, "pm10": 34.4582618831775, "pm2_5": 19.194655336036337}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696490.3754437, "type": "air", "co2": 1094.3565240006633, "pm10": 26.71780716886175, "pm2_5": 11.03023188398872}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696491.376231, "type": "air", "co2": 1239.9653143616272, "pm10": 27.873917990501038, "pm2_5": 10.24424517037285}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696492.3768845, "type": "air", "co2": 1217.584254841925, "pm10": 26.86333380560836, "pm2_5": 18.062000398231856}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696493.3789837, "type": "air", "co2": 1245.7223396032011, "pm10": 33.07044570224093, "pm2_5": 16.587650758701812}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696495.3888896, "type": "air", "co2": 1388.1922651538898, "pm10": 26.900396743371513, "pm2_5": 12.328210575569877}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696499.392113, "type": "air", "co2": 1366.344194440707, "pm10": 33.71897555618799, "pm2_5": 10.042193491547167}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696500.416955, "type": "air", "co2": 1155.6411039201653, "pm10": 34.37918625775979, "pm2_5": 18.996897338265367}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696501.417499, "type": "air", "co2": 1332.7287741668092, "pm10": 28.16253649623298, "pm2_5": 13.57201225499052}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696502.4458342, "type": "air", "co2": 1477.49618487741, "pm10": 28.134919152009253, "pm2_5": 15.702202372741253}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696503.4470866, "type": "air", "co2": 1115.1695686951564, "pm10": 32.34093227690926, "pm2_5": 16.844943076798813}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696504.4481843, "type": "air", "co2": 1415.5427742604008, "pm10": 30.080585494392125, "pm2_5": 10.84922834137167}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696505.4489484, "type": "air", "co2": 1393.3525993691505, "pm10": 26.031539108969458, "pm2_5": 12.128196726055958}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696506.4501033, "type": "air", "co2": 1349.6226111656892, "pm10": 34.21512812646279, "pm2_5": 12.708481751526675}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696507.4507875, "type": "air", "co2": 1084.784026393439, "pm10": 32.7062333960601, "pm2_5": 14.297587557579549}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696508.4667456, "type": "air", "co2": 1316.4211289991727, "pm10": 34.3478884879407, "pm2_5": 18.884163115270844}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696509.4671643, "type": "air", "co2": 1429.2036888294913, "pm10": 34.341118741275736, "pm2_5": 19.450789330598628}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696510.4679677, "type": "air", "co2": 1157.6345924697991, "pm10": 33.096318988227885, "pm2_5": 18.695527067339874}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696511.468842, "type": "air", "co2": 1430.225475268005, "pm10": 31.65475025782333, "pm2_5": 13.430067403465182}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696512.480744, "type": "air", "co2": 1029.2839727070411, "pm10": 25.74780605982525, "pm2_5": 13.757761804424096}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696513.4817195, "type": "air", "co2": 1318.361028059881, "pm10": 32.954877163984065, "pm2_5": 15.080179031040755}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696514.4825048, "type": "air", "co2": 1315.1229734925294, "pm10": 27.294029032409576, "pm2_5": 10.295338635021508}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696515.4837682, "type": "air", "co2": 1001.9086296934369, "pm10": 32.93254957065234, "pm2_5": 17.543865041350163}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696516.4844298, "type": "air", "co2": 1300.8930960306325, "pm10": 34.741383558812075, "pm2_5": 10.58102507906567}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696518.502163, "type": "air", "co2": 1493.608602828741, "pm10": 33.65978553976975, "pm2_5": 15.482176153235716}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696519.5028756, "type": "air", "co2": 1366.0937193444954, "pm10": 32.56123724501715, "pm2_5": 14.157980942449765}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696521.504734, "type": "air", "co2": 1062.9293224930434, "pm10": 27.710006094488175, "pm2_5": 11.428735945330876}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696522.5155065, "type": "air", "co2": 1369.8541439093933, "pm10": 30.781158978509424, "pm2_5": 18.262256602369778}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696523.5170612, "type": "air", "co2": 1484.9397754478134, "pm10": 26.380570957882092, "pm2_5": 14.643461120075598}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696524.5252564, "type": "air", "co2": 1252.3178764872873, "pm10": 28.06964908788634, "pm2_5": 19.784168929856314}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696525.5347004, "type": "air", "co2": 1278.5377780662452, "pm10": 29.68155751900087, "pm2_5": 14.440429665714944}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696526.5599465, "type": "air", "co2": 1385.2223801027203, "pm10": 34.4507591450062, "pm2_5": 16.072474103582476}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696527.56083, "type": "air", "co2": 1175.5407387663427, "pm10": 33.184891223433624, "pm2_5": 15.685277474545998}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696529.56263, "type": "air", "co2": 1205.2032536663583, "pm10": 34.320863029542444, "pm2_5": 10.166491853356453}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696530.5632102, "type": "air", "co2": 1214.2820142414964, "pm10": 28.982398655822806, "pm2_5": 18.06937545474559}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696531.5640583, "type": "air", "co2": 1261.8583352106177, "pm10": 30.279317489668195, "pm2_5": 19.906209805780477}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696532.5650637, "type": "air", "co2": 1031.457381565821, "pm10": 31.31286212737418, "pm2_5": 13.587523114875228}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696533.566158, "type": "air", "co2": 1245.8559486905006, "pm10": 32.27555649897806, "pm2_5": 11.410298286947022}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696534.5700493, "type": "air", "co2": 1393.0610510645697, "pm10": 29.830916359600117, "pm2_5": 15.860937108631411}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696535.5706766, "type": "air", "co2": 1002.6525027134367, "pm10": 29.945415650312434, "pm2_5": 12.036828580207363}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696536.5719106, "type": "air", "co2": 1255.2803454770954, "pm10": 32.49786133240785, "pm2_5": 17.479477311148273}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696537.572778, "type": "air", "co2": 1138.0373271647427, "pm10": 32.83535853819305, "pm2_5": 19.89658258677965}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696538.573904, "type": "air", "co2": 1191.4625267157485, "pm10": 25.07185129824154, "pm2_5": 11.412027784469304}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696539.574816, "type": "air", "co2": 1314.0244406221568, "pm10": 29.162999706897928, "pm2_5": 17.862227201845847}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696540.5759542, "type": "air", "co2": 1083.7238576416714, "pm10": 25.86709051717072, "pm2_5": 15.337452010470559}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696541.5767632, "type": "air", "co2": 1233.987713823961, "pm10": 29.270240624462307, "pm2_5": 11.452263448598881}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696542.5773046, "type": "air", "co2": 1075.7352148552466, "pm10": 31.31195222385099, "pm2_5": 17.293636654181217}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696543.579726, "type": "air", "co2": 1220.9285155756381, "pm10": 33.23139180101205, "pm2_5": 15.31723508054244}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696544.580348, "type": "air", "co2": 1084.3707648027673, "pm10": 31.189019557274484, "pm2_5": 18.317369759827137}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696545.585203, "type": "air", "co2": 1489.4178655047526, "pm10": 27.048583858194338, "pm2_5": 10.141734391158007}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696546.5861907, "type": "air", "co2": 1057.1356221464257, "pm10": 33.42388692391474, "pm2_5": 17.864051343225043}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696547.587299, "type": "air", "co2": 1103.5970557344278, "pm10": 34.08167592431164, "pm2_5": 11.087921698974865}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696548.58791, "type": "air", "co2": 1477.6611722693876, "pm10": 28.321056904005374, "pm2_5": 14.572469673945943}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696549.5886867, "type": "air", "co2": 1316.5440675721088, "pm10": 28.946553426034736, "pm2_5": 10.625089484715042}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696550.58934, "type": "air", "co2": 1398.3360726103754, "pm10": 26.520681324474143, "pm2_5": 19.076632199658285}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696551.5939867, "type": "air", "co2": 1118.2294025212134, "pm10": 29.36083401719266, "pm2_5": 17.639158281397485}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696552.596801, "type": "air", "co2": 1084.7884053351984, "pm10": 27.553648366267712, "pm2_5": 18.56302291574149}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696553.5976458, "type": "air", "co2": 1267.5648535908044, "pm10": 25.849492415916632, "pm2_5": 13.966042532923218}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696554.5986586, "type": "air", "co2": 1126.0488260936415, "pm10": 33.45909449158709, "pm2_5": 13.97135527096178}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696555.5996318, "type": "air", "co2": 1023.0855400589925, "pm10": 34.031271598463164, "pm2_5": 19.271996695876993}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696556.6001742, "type": "air", "co2": 1441.4334203314402, "pm10": 30.075787064206363, "pm2_5": 14.824696508828074}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696557.6017034, "type": "air", "co2": 1120.5676290202787, "pm10": 25.697959109113036, "pm2_5": 17.108082225518086}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696558.6024575, "type": "air", "co2": 1159.4805542621466, "pm10": 31.5969187327174, "pm2_5": 15.295445656257513}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696559.6031783, "type": "air", "co2": 1149.0054242910296, "pm10": 26.291546254625985, "pm2_5": 13.223094752763146}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696560.6035893, "type": "air", "co2": 1415.1743967741606, "pm10": 33.352968545086135, "pm2_5": 12.525688382066058}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696561.6046474, "type": "air", "co2": 1004.8661798251833, "pm10": 31.889184061167335, "pm2_5": 16.700354366856658}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696562.6056447, "type": "air", "co2": 1021.3432624717672, "pm10": 32.61127376399654, "pm2_5": 17.617238238020455}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696563.606696, "type": "air", "co2": 1053.2370577752333, "pm10": 25.802391203303156, "pm2_5": 18.466892728011103}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696564.6075125, "type": "air", "co2": 1151.1677555913338, "pm10": 32.745942383198, "pm2_5": 13.96057903113524}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696565.6084383, "type": "air", "co2": 1271.9687333438103, "pm10": 26.534275555565557, "pm2_5": 11.025776835967406}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696566.6093314, "type": "air", "co2": 1299.6579003905335, "pm10": 26.095744166013827, "pm2_5": 12.23693097770945}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696567.6101801, "type": "air", "co2": 1459.2348922342658, "pm10": 30.57287526391086, "pm2_5": 14.260184845432253}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696568.6113784, "type": "air", "co2": 1076.7097064849152, "pm10": 29.32538133204255, "pm2_5": 19.31962715792015}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696569.612303, "type": "air", "co2": 1231.269068044103, "pm10": 31.50643862580191, "pm2_5": 13.156934351001432}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696570.6129627, "type": "air", "co2": 1088.1849165219264, "pm10": 34.386046933764824, "pm2_5": 12.82060454996919}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696571.6140156, "type": "air", "co2": 1167.7858937405908, "pm10": 32.65153173416355, "pm2_5": 14.140682704898332}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696572.6202738, "type": "air", "co2": 1222.1610904469164, "pm10": 30.64172430700479, "pm2_5": 12.717909465100835}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696466.3087108, "type": "traffic", "vehicles_per_min": 25, "avg_speed": 39}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696466.1718643, "type": "traffic", "vehicles_per_min": 13, "avg_speed": 24}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696466.2655644, "type": "traffic", "vehicles_per_min": 28, "avg_speed": 11}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696466.3952692, "type": "air", "co2": 1425.4917860868347, "pm10": 33.04376862502316, "pm2_5": 16.660269600109267}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696573.6211426, "type": "air", "co2": 1239.1754022382008, "pm10": 27.258507076225293, "pm2_5": 18.702512236333654}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696467.3096588, "type": "traffic", "vehicles_per_min": 28, "avg_speed": 20}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696467.2670832, "type": "traffic", "vehicles_per_min": 10, "avg_speed": 12}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696467.3959482, "type": "air", "co2": 1060.7871583996616, "pm10": 32.89099474718454, "pm2_5": 11.739295021870074}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696577.6223302, "type": "air", "co2": 1277.4083347069654, "pm10": 28.428144318056972, "pm2_5": 11.315326401215444}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696468.3107758, "type": "traffic", "vehicles_per_min": 12, "avg_speed": 33}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696468.267971, "type": "traffic", "vehicles_per_min": 22, "avg_speed": 28}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696468.3965747, "type": "air", "co2": 1115.8516046810923, "pm10": 34.65299656593753, "pm2_5": 13.853383569657698}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696468.1309373, "type": "traffic", "vehicles_per_min": 12, "avg_speed": 18}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696578.6230779, "type": "air", "co2": 1250.7168376047878, "pm10": 27.134209757892172, "pm2_5": 12.661516349707894}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696469.1748178, "type": "traffic", "vehicles_per_min": 14, "avg_speed": 21}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696469.2687452, "type": "traffic", "vehicles_per_min": 10, "avg_speed": 26}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696469.3974385, "type": "air", "co2": 1118.0315767705397, "pm10": 32.393196423717576, "pm2_5": 15.965767542857108}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696469.1319768, "type": "traffic", "vehicles_per_min": 14, "avg_speed": 18}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696470.1333354, "type": "traffic", "vehicles_per_min": 3, "avg_speed": 11}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696470.3125663, "type": "traffic", "vehicles_per_min": 12, "avg_speed": 33}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696470.175776, "type": "traffic", "vehicles_per_min": 23, "avg_speed": 21}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696470.2696006, "type": "traffic", "vehicles_per_min": 11, "avg_speed": 34}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696470.398879, "type": "air", "co2": 1038.352912909316, "pm10": 32.847095575615114, "pm2_5": 16.099485493434848}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696471.1345315, "type": "traffic", "vehicles_per_min": 19, "avg_speed": 26}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696471.3135712, "type": "traffic", "vehicles_per_min": 18, "avg_speed": 15}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696471.1766517, "type": "traffic", "vehicles_per_min": 4, "avg_speed": 25}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696471.27054, "type": "traffic", "vehicles_per_min": 23, "avg_speed": 40}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696471.3998363, "type": "air", "co2": 1420.4035069692568, "pm10": 30.802641710622186, "pm2_5": 14.782119749963456}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696472.1354623, "type": "traffic", "vehicles_per_min": 2, "avg_speed": 13}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696472.177371, "type": "traffic", "vehicles_per_min": 6, "avg_speed": 27}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696472.2715101, "type": "traffic", "vehicles_per_min": 28, "avg_speed": 18}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696472.4009442, "type": "air", "co2": 1249.3822850927468, "pm10": 28.421692908539796, "pm2_5": 11.575674441230571}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696473.1366785, "type": "traffic", "vehicles_per_min": 1, "avg_speed": 27}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696473.3159227, "type": "traffic", "vehicles_per_min": 22, "avg_speed": 38}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696473.1785097, "type": "traffic", "vehicles_per_min": 1, "avg_speed": 32}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696473.2725284, "type": "traffic", "vehicles_per_min": 3, "avg_speed": 16}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696473.4019423, "type": "air", "co2": 1437.9960082094253, "pm10": 28.093283185958004, "pm2_5": 14.278483573481457}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696474.1375144, "type": "traffic", "vehicles_per_min": 21, "avg_speed": 12}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696474.3171382, "type": "traffic", "vehicles_per_min": 3, "avg_speed": 15}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696474.2732923, "type": "traffic", "vehicles_per_min": 13, "avg_speed": 16}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696474.4028108, "type": "air", "co2": 1424.65049231953, "pm10": 28.46143637945089, "pm2_5": 10.82616497339689}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696475.1383483, "type": "traffic", "vehicles_per_min": 19, "avg_speed": 22}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696475.3178885, "type": "traffic", "vehicles_per_min": 20, "avg_speed": 16}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696475.1804082, "type": "traffic", "vehicles_per_min": 11, "avg_speed": 26}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696475.274205, "type": "traffic", "vehicles_per_min": 2, "avg_speed": 23}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696475.4040868, "type": "air", "co2": 1104.3848127076164, "pm10": 34.88951474376239, "pm2_5": 17.782278503733448}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696476.3187172, "type": "traffic", "vehicles_per_min": 9, "avg_speed": 36}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696476.1809797, "type": "traffic", "vehicles_per_min": 23, "avg_speed": 28}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696476.275219, "type": "traffic", "vehicles_per_min": 3, "avg_speed": 18}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696476.4047563, "type": "air", "co2": 1103.5566482191964, "pm10": 28.606286148335805, "pm2_5": 16.431528112843427}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696477.1397965, "type": "traffic", "vehicles_per_min": 6, "avg_speed": 24}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696477.3219748, "type": "traffic", "vehicles_per_min": 18, "avg_speed": 36}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696477.1816735, "type": "traffic", "vehicles_per_min": 4, "avg_speed": 26}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696480.4627476, "type": "air", "co2": 1110.8129971573014, "pm10": 26.943823818977165, "pm2_5": 17.788310987344424}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696478.1444314, "type": "traffic", "vehicles_per_min": 16, "avg_speed": 34}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696481.3300526, "type": "traffic", "vehicles_per_min": 27, "avg_speed": 21}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696478.1915057, "type": "traffic", "vehicles_per_min": 11, "avg_speed": 13}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696478.277025, "type": "traffic", "vehicles_per_min": 12, "avg_speed": 12}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696481.4632971, "type": "air", "co2": 1197.9969920825386, "pm10": 25.814160200211628, "pm2_5": 16.44773159069402}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696479.1453116, "type": "traffic", "vehicles_per_min": 18, "avg_speed": 31}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696479.1922698, "type": "traffic", "vehicles_per_min": 15, "avg_speed": 17}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696479.2776263, "type": "traffic", "vehicles_per_min": 12, "avg_speed": 28}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696482.464128, "type": "air", "co2": 1091.6364428405166, "pm10": 25.167567481381823, "pm2_5": 12.437837491649415}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696480.1458328, "type": "traffic", "vehicles_per_min": 27, "avg_speed": 32}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696483.331871, "type": "traffic", "vehicles_per_min": 0, "avg_speed": 35}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696480.1930537, "type": "traffic", "vehicles_per_min": 1, "avg_speed": 35}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696480.2813437, "type": "traffic", "vehicles_per_min": 13, "avg_speed": 32}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696481.1468325, "type": "traffic", "vehicles_per_min": 0, "avg_speed": 10}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696484.3329968, "type": "traffic", "vehicles_per_min": 18, "avg_speed": 30}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696481.1938345, "type": "traffic", "vehicles_per_min": 2, "avg_speed": 10}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696481.2818952, "type": "traffic", "vehicles_per_min": 25, "avg_speed": 18}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696482.1474955, "type": "traffic", "vehicles_per_min": 2, "avg_speed": 29}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696485.3335671, "type": "traffic", "vehicles_per_min": 2, "avg_speed": 19}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696482.1944852, "type": "traffic", "vehicles_per_min": 20, "avg_speed": 40}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696482.2832682, "type": "traffic", "vehicles_per_min": 18, "avg_speed": 18}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696485.4732857, "type": "air", "co2": 1062.5473661966475, "pm10": 27.085652226409003, "pm2_5": 17.032574164609013}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696483.1482651, "type": "traffic", "vehicles_per_min": 13, "avg_speed": 29}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696486.3346832, "type": "traffic", "vehicles_per_min": 18, "avg_speed": 33}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696483.1954486, "type": "traffic", "vehicles_per_min": 3, "avg_speed": 12}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696483.2849784, "type": "traffic", "vehicles_per_min": 6, "avg_speed": 38}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696484.1494303, "type": "traffic", "vehicles_per_min": 29, "avg_speed": 37}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696487.3355565, "type": "traffic", "vehicles_per_min": 29, "avg_speed": 25}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696484.1966522, "type": "traffic", "vehicles_per_min": 4, "avg_speed": 40}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696484.2862177, "type": "traffic", "vehicles_per_min": 21, "avg_speed": 39}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696487.4750178, "type": "air", "co2": 1456.7899438305078, "pm10": 25.94046133429073, "pm2_5": 10.967412723354997}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696485.1505973, "type": "traffic", "vehicles_per_min": 13, "avg_speed": 32}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696488.3385975, "type": "traffic", "vehicles_per_min": 25, "avg_speed": 38}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696485.1989813, "type": "traffic", "vehicles_per_min": 2, "avg_speed": 30}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696485.2881198, "type": "traffic", "vehicles_per_min": 18, "avg_speed": 21}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696488.475512, "type": "air", "co2": 1215.0822851417106, "pm10": 30.327091987124827, "pm2_5": 15.277990852256059}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696466.2573853, "type": "traffic", "vehicles_per_min": 11, "avg_speed": 33}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696469.2006114, "type": "traffic", "vehicles_per_min": 16, "avg_speed": 28}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696579.6234198, "type": "air", "co2": 1083.8936541656356, "pm10": 26.38616132008735, "pm2_5": 12.837628328632274}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696467.2162397, "type": "traffic", "vehicles_per_min": 9, "avg_speed": 14}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696486.1517065, "type": "traffic", "vehicles_per_min": 18, "avg_speed": 11}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696489.3394196, "type": "traffic", "vehicles_per_min": 7, "avg_speed": 36}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696486.2021635, "type": "traffic", "vehicles_per_min": 1, "avg_speed": 37}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696486.290604, "type": "traffic", "vehicles_per_min": 9, "avg_speed": 14}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696489.4761865, "type": "air", "co2": 1151.0803624372732, "pm10": 31.963878471563355, "pm2_5": 13.466353905231372}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696468.2175252, "type": "traffic", "vehicles_per_min": 6, "avg_speed": 10}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696487.1527443, "type": "traffic", "vehicles_per_min": 6, "avg_speed": 28}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696490.3403673, "type": "traffic", "vehicles_per_min": 26, "avg_speed": 24}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696487.2028875, "type": "traffic", "vehicles_per_min": 17, "avg_speed": 11}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696490.2964418, "type": "traffic", "vehicles_per_min": 27, "avg_speed": 26}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696468.2594206, "type": "traffic", "vehicles_per_min": 19, "avg_speed": 16}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696471.2028708, "type": "traffic", "vehicles_per_min": 25, "avg_speed": 40}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696469.2189622, "type": "traffic", "vehicles_per_min": 25, "avg_speed": 26}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696488.153486, "type": "traffic", "vehicles_per_min": 11, "avg_speed": 33}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696491.3413527, "type": "traffic", "vehicles_per_min": 4, "avg_speed": 12}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696488.203811, "type": "traffic", "vehicles_per_min": 10, "avg_speed": 37}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696491.297184, "type": "traffic", "vehicles_per_min": 17, "avg_speed": 20}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696491.4777179, "type": "air", "co2": 1441.8229343501682, "pm10": 31.369068339180203, "pm2_5": 15.523091895194998}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696469.2601671, "type": "traffic", "vehicles_per_min": 4, "avg_speed": 22}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696472.2038538, "type": "traffic", "vehicles_per_min": 19, "avg_speed": 12}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696470.2214496, "type": "traffic", "vehicles_per_min": 30, "avg_speed": 22}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696489.1596327, "type": "traffic", "vehicles_per_min": 23, "avg_speed": 36}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696492.3421023, "type": "traffic", "vehicles_per_min": 25, "avg_speed": 15}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696492.2157, "type": "traffic", "vehicles_per_min": 12, "avg_speed": 35}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696495.301078, "type": "traffic", "vehicles_per_min": 19, "avg_speed": 18}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696492.4788294, "type": "air", "co2": 1116.1470615265077, "pm10": 33.249027049010685, "pm2_5": 11.817703484876867}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696470.2609081, "type": "traffic", "vehicles_per_min": 23, "avg_speed": 37}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696473.2049747, "type": "traffic", "vehicles_per_min": 8, "avg_speed": 11}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696471.222802, "type": "traffic", "vehicles_per_min": 10, "avg_speed": 36}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696490.1603897, "type": "traffic", "vehicles_per_min": 3, "avg_speed": 30}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696493.2163596, "type": "traffic", "vehicles_per_min": 14, "avg_speed": 30}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696496.3172696, "type": "traffic", "vehicles_per_min": 12, "avg_speed": 20}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696493.4799154, "type": "air", "co2": 1233.2145093928561, "pm10": 27.45927028181015, "pm2_5": 14.535741107345466}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696471.2621174, "type": "traffic", "vehicles_per_min": 22, "avg_speed": 35}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696474.2059402, "type": "traffic", "vehicles_per_min": 0, "avg_speed": 26}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696472.2239127, "type": "traffic", "vehicles_per_min": 13, "avg_speed": 40}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696491.1611526, "type": "traffic", "vehicles_per_min": 29, "avg_speed": 30}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696494.3440545, "type": "traffic", "vehicles_per_min": 19, "avg_speed": 20}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696494.2181818, "type": "traffic", "vehicles_per_min": 11, "avg_speed": 17}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696494.4811351, "type": "air", "co2": 1127.818709275547, "pm10": 28.29846473383074, "pm2_5": 12.511518859897565}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696475.2637653, "type": "traffic", "vehicles_per_min": 20, "avg_speed": 21}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696475.2069228, "type": "traffic", "vehicles_per_min": 27, "avg_speed": 38}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696473.2246668, "type": "traffic", "vehicles_per_min": 22, "avg_speed": 34}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696495.220113, "type": "traffic", "vehicles_per_min": 30, "avg_speed": 23}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696498.3203285, "type": "traffic", "vehicles_per_min": 15, "avg_speed": 23}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696495.4817502, "type": "air", "co2": 1289.152697354706, "pm10": 33.743137414659515, "pm2_5": 15.152029149913693}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696476.2647989, "type": "traffic", "vehicles_per_min": 3, "avg_speed": 37}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696476.207735, "type": "traffic", "vehicles_per_min": 2, "avg_speed": 11}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696474.225597, "type": "traffic", "vehicles_per_min": 26, "avg_speed": 39}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696493.1626995, "type": "traffic", "vehicles_per_min": 10, "avg_speed": 33}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696496.3550482, "type": "traffic", "vehicles_per_min": 25, "avg_speed": 37}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696496.233071, "type": "traffic", "vehicles_per_min": 13, "avg_speed": 26}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696499.320998, "type": "traffic", "vehicles_per_min": 30, "avg_speed": 14}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696496.4824603, "type": "air", "co2": 1055.7029102730094, "pm10": 25.274155227730116, "pm2_5": 17.294141171986244}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696477.2685914, "type": "traffic", "vehicles_per_min": 20, "avg_speed": 34}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696477.2085748, "type": "traffic", "vehicles_per_min": 17, "avg_speed": 36}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696475.2268107, "type": "traffic", "vehicles_per_min": 9, "avg_speed": 17}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696494.1635826, "type": "traffic", "vehicles_per_min": 19, "avg_speed": 18}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696497.3563368, "type": "traffic", "vehicles_per_min": 9, "avg_speed": 40}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696497.2384799, "type": "traffic", "vehicles_per_min": 16, "avg_speed": 16}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696503.395675, "type": "traffic", "vehicles_per_min": 28, "avg_speed": 25}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696497.4832656, "type": "air", "co2": 1271.9899639338307, "pm10": 28.556629851288974, "pm2_5": 18.53944850981829}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696478.2726681, "type": "traffic", "vehicles_per_min": 14, "avg_speed": 18}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696481.2144196, "type": "traffic", "vehicles_per_min": 4, "avg_speed": 39}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696476.2278125, "type": "traffic", "vehicles_per_min": 15, "avg_speed": 20}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696495.166246, "type": "traffic", "vehicles_per_min": 21, "avg_speed": 26}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696498.358277, "type": "traffic", "vehicles_per_min": 27, "avg_speed": 25}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696498.239168, "type": "traffic", "vehicles_per_min": 4, "avg_speed": 33}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696504.3965864, "type": "traffic", "vehicles_per_min": 15, "avg_speed": 22}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696498.4838464, "type": "air", "co2": 1387.1812096397512, "pm10": 33.90849780753884, "pm2_5": 12.534253574581697}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696479.2736475, "type": "traffic", "vehicles_per_min": 10, "avg_speed": 24}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696482.2192078, "type": "traffic", "vehicles_per_min": 3, "avg_speed": 22}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696477.2284534, "type": "traffic", "vehicles_per_min": 30, "avg_speed": 34}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696496.186149, "type": "traffic", "vehicles_per_min": 25, "avg_speed": 17}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696499.3586318, "type": "traffic", "vehicles_per_min": 5, "avg_speed": 39}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696499.241687, "type": "traffic", "vehicles_per_min": 13, "avg_speed": 31}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696505.3976786, "type": "traffic", "vehicles_per_min": 21, "avg_speed": 28}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696499.4842696, "type": "air", "co2": 1336.1545668650583, "pm10": 25.18961476520354, "pm2_5": 17.985760255566838}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696480.275648, "type": "traffic", "vehicles_per_min": 6, "avg_speed": 26}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696481.2312872, "type": "traffic", "vehicles_per_min": 4, "avg_speed": 13}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696497.1869497, "type": "traffic", "vehicles_per_min": 7, "avg_speed": 22}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696500.2506466, "type": "traffic", "vehicles_per_min": 16, "avg_speed": 17}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696500.5044076, "type": "air", "co2": 1190.5937611390004, "pm10": 32.24115639328072, "pm2_5": 17.389909258950183}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696481.2821987, "type": "traffic", "vehicles_per_min": 25, "avg_speed": 24}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696484.221578, "type": "traffic", "vehicles_per_min": 6, "avg_speed": 21}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696482.2324526, "type": "traffic", "vehicles_per_min": 5, "avg_speed": 15}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696498.1877093, "type": "traffic", "vehicles_per_min": 18, "avg_speed": 36}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696501.4025962, "type": "traffic", "vehicles_per_min": 20, "avg_speed": 15}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696501.2799158, "type": "traffic", "vehicles_per_min": 16, "avg_speed": 11}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696507.3989847, "type": "traffic", "vehicles_per_min": 3, "avg_speed": 33}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696501.5144393, "type": "air", "co2": 1446.5010301930888, "pm10": 34.23215533619097, "pm2_5": 18.530643465447817}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696482.2836704, "type": "traffic", "vehicles_per_min": 30, "avg_speed": 15}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696488.231215, "type": "traffic", "vehicles_per_min": 17, "avg_speed": 20}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696483.2335038, "type": "traffic", "vehicles_per_min": 24, "avg_speed": 25}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696499.188475, "type": "traffic", "vehicles_per_min": 7, "avg_speed": 25}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696502.407974, "type": "traffic", "vehicles_per_min": 22, "avg_speed": 30}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696502.2803473, "type": "traffic", "vehicles_per_min": 9, "avg_speed": 39}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696502.524659, "type": "air", "co2": 1161.2874741239757, "pm10": 27.353031876166817, "pm2_5": 19.909991227343724}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696483.2846797, "type": "traffic", "vehicles_per_min": 11, "avg_speed": 12}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696489.2319489, "type": "traffic", "vehicles_per_min": 23, "avg_speed": 10}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696484.2345884, "type": "traffic", "vehicles_per_min": 15, "avg_speed": 39}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696500.1986074, "type": "traffic", "vehicles_per_min": 5, "avg_speed": 16}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696503.2811043, "type": "traffic", "vehicles_per_min": 5, "avg_speed": 37}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696509.4003115, "type": "traffic", "vehicles_per_min": 13, "avg_speed": 20}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696503.5256588, "type": "air", "co2": 1289.851028878428, "pm10": 34.90005777617058, "pm2_5": 19.103994537599316}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696487.2876143, "type": "traffic", "vehicles_per_min": 28, "avg_speed": 18}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696490.2327375, "type": "traffic", "vehicles_per_min": 19, "avg_speed": 28}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696485.235169, "type": "traffic", "vehicles_per_min": 9, "avg_speed": 13}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696501.2286723, "type": "traffic", "vehicles_per_min": 0, "avg_speed": 29}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696504.409818, "type": "traffic", "vehicles_per_min": 20, "avg_speed": 37}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696504.281909, "type": "traffic", "vehicles_per_min": 28, "avg_speed": 23}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696510.4010534, "type": "traffic", "vehicles_per_min": 19, "avg_speed": 10}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696491.300173, "type": "traffic", "vehicles_per_min": 28, "avg_speed": 26}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696491.2333114, "type": "traffic", "vehicles_per_min": 17, "avg_speed": 40}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696486.236166, "type": "traffic", "vehicles_per_min": 2, "avg_speed": 20}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696502.231359, "type": "traffic", "vehicles_per_min": 20, "avg_speed": 11}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696505.2832534, "type": "traffic", "vehicles_per_min": 6, "avg_speed": 17}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696511.401976, "type": "traffic", "vehicles_per_min": 27, "avg_speed": 31}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696505.5276513, "type": "air", "co2": 1193.767248860289, "pm10": 28.63423090799918, "pm2_5": 12.939461950091445}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696492.301097, "type": "traffic", "vehicles_per_min": 29, "avg_speed": 30}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696492.2345104, "type": "traffic", "vehicles_per_min": 21, "avg_speed": 37}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696487.2371764, "type": "traffic", "vehicles_per_min": 20, "avg_speed": 26}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696503.231782, "type": "traffic", "vehicles_per_min": 18, "avg_speed": 18}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696506.4113605, "type": "traffic", "vehicles_per_min": 5, "avg_speed": 40}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696506.2848763, "type": "traffic", "vehicles_per_min": 16, "avg_speed": 35}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696512.4084146, "type": "traffic", "vehicles_per_min": 19, "avg_speed": 13}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696506.5284748, "type": "air", "co2": 1196.9068684590397, "pm10": 29.149325207907264, "pm2_5": 19.653662873695467}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696493.3019123, "type": "traffic", "vehicles_per_min": 8, "avg_speed": 40}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696488.2378314, "type": "traffic", "vehicles_per_min": 20, "avg_speed": 31}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696504.2322972, "type": "traffic", "vehicles_per_min": 10, "avg_speed": 23}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696507.4122765, "type": "traffic", "vehicles_per_min": 13, "avg_speed": 33}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696513.4090414, "type": "traffic", "vehicles_per_min": 9, "avg_speed": 24}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696494.3046665, "type": "traffic", "vehicles_per_min": 27, "avg_speed": 16}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696489.238282, "type": "traffic", "vehicles_per_min": 23, "avg_speed": 28}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696505.2332997, "type": "traffic", "vehicles_per_min": 30, "avg_speed": 37}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696508.4131217, "type": "traffic", "vehicles_per_min": 29, "avg_speed": 19}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696508.2897727, "type": "traffic", "vehicles_per_min": 27, "avg_speed": 14}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696514.4101324, "type": "traffic", "vehicles_per_min": 24, "avg_speed": 14}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696508.5327818, "type": "air", "co2": 1081.5348231264431, "pm10": 34.27156020617819, "pm2_5": 14.751970602840464}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696495.3097892, "type": "traffic", "vehicles_per_min": 19, "avg_speed": 10}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696495.2397406, "type": "traffic", "vehicles_per_min": 11, "avg_speed": 32}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696490.2391415, "type": "traffic", "vehicles_per_min": 12, "avg_speed": 15}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696506.2343862, "type": "traffic", "vehicles_per_min": 26, "avg_speed": 21}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696509.415375, "type": "traffic", "vehicles_per_min": 6, "avg_speed": 39}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696509.2901738, "type": "traffic", "vehicles_per_min": 13, "avg_speed": 35}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696515.4111836, "type": "traffic", "vehicles_per_min": 26, "avg_speed": 35}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696509.533334, "type": "air", "co2": 1109.101433901224, "pm10": 28.564593042207726, "pm2_5": 16.58284235045582}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696496.3177738, "type": "traffic", "vehicles_per_min": 29, "avg_speed": 35}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696496.2642741, "type": "traffic", "vehicles_per_min": 30, "avg_speed": 14}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696491.2399352, "type": "traffic", "vehicles_per_min": 11, "avg_speed": 17}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696507.2350085, "type": "traffic", "vehicles_per_min": 20, "avg_speed": 19}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696510.292377, "type": "traffic", "vehicles_per_min": 20, "avg_speed": 27}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696510.5337358, "type": "air", "co2": 1417.123472111157, "pm10": 29.720745900132943, "pm2_5": 11.056223854931336}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696497.3186061, "type": "traffic", "vehicles_per_min": 25, "avg_speed": 39}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696497.2646003, "type": "traffic", "vehicles_per_min": 16, "avg_speed": 12}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696492.2408147, "type": "traffic", "vehicles_per_min": 18, "avg_speed": 26}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696508.235819, "type": "traffic", "vehicles_per_min": 3, "avg_speed": 19}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696511.4179628, "type": "traffic", "vehicles_per_min": 0, "avg_speed": 26}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696517.4127207, "type": "traffic", "vehicles_per_min": 0, "avg_speed": 11}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696511.534827, "type": "air", "co2": 1049.4257634601117, "pm10": 25.170179055915085, "pm2_5": 14.49249331319365}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696498.3208804, "type": "traffic", "vehicles_per_min": 9, "avg_speed": 35}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696498.2651303, "type": "traffic", "vehicles_per_min": 22, "avg_speed": 20}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696493.2417455, "type": "traffic", "vehicles_per_min": 1, "avg_speed": 20}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696509.2365098, "type": "traffic", "vehicles_per_min": 15, "avg_speed": 26}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696515.440125, "type": "traffic", "vehicles_per_min": 23, "avg_speed": 13}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696512.2942197, "type": "traffic", "vehicles_per_min": 13, "avg_speed": 38}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696518.4530683, "type": "traffic", "vehicles_per_min": 19, "avg_speed": 30}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696512.5355277, "type": "air", "co2": 1180.524793141728, "pm10": 33.37620349257861, "pm2_5": 13.347602377846165}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696499.321455, "type": "traffic", "vehicles_per_min": 17, "avg_speed": 39}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696494.2422888, "type": "traffic", "vehicles_per_min": 13, "avg_speed": 23}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696510.2374563, "type": "traffic", "vehicles_per_min": 14, "avg_speed": 21}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696516.440826, "type": "traffic", "vehicles_per_min": 7, "avg_speed": 22}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696513.2945235, "type": "traffic", "vehicles_per_min": 26, "avg_speed": 22}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696519.4537623, "type": "traffic", "vehicles_per_min": 5, "avg_speed": 10}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696513.536394, "type": "air", "co2": 1092.9370638044336, "pm10": 28.13443570382058, "pm2_5": 13.613844017444032}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696500.2668598, "type": "traffic", "vehicles_per_min": 10, "avg_speed": 35}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696495.2433455, "type": "traffic", "vehicles_per_min": 6, "avg_speed": 36}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696580.6259847, "type": "air", "co2": 1220.8000547145803, "pm10": 34.58718789914535, "pm2_5": 15.051436795451728}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696514.2390192, "type": "traffic", "vehicles_per_min": 12, "avg_speed": 17}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696517.4424381, "type": "traffic", "vehicles_per_min": 28, "avg_speed": 27}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696514.2952106, "type": "traffic", "vehicles_per_min": 22, "avg_speed": 18}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696520.4549887, "type": "traffic", "vehicles_per_min": 15, "avg_speed": 34}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696514.537275, "type": "air", "co2": 1471.0819287895583, "pm10": 25.112662829427858, "pm2_5": 15.793577503719867}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696501.2808816, "type": "traffic", "vehicles_per_min": 13, "avg_speed": 13}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696496.2694986, "type": "traffic", "vehicles_per_min": 18, "avg_speed": 25}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696515.2397065, "type": "traffic", "vehicles_per_min": 10, "avg_speed": 15}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696518.453714, "type": "traffic", "vehicles_per_min": 0, "avg_speed": 39}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696515.29593, "type": "traffic", "vehicles_per_min": 7, "avg_speed": 21}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696521.4556813, "type": "traffic", "vehicles_per_min": 22, "avg_speed": 11}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696515.5385878, "type": "air", "co2": 1167.9175827594058, "pm10": 29.45124349185703, "pm2_5": 17.664110176856962}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696502.3529136, "type": "traffic", "vehicles_per_min": 2, "avg_speed": 26}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696502.2813709, "type": "traffic", "vehicles_per_min": 16, "avg_speed": 14}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696497.2702599, "type": "traffic", "vehicles_per_min": 6, "avg_speed": 21}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696516.2407699, "type": "traffic", "vehicles_per_min": 17, "avg_speed": 12}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696519.4542212, "type": "traffic", "vehicles_per_min": 6, "avg_speed": 11}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696516.2967346, "type": "traffic", "vehicles_per_min": 25, "avg_speed": 28}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696516.539878, "type": "air", "co2": 1188.22009092524, "pm10": 34.19953444585319, "pm2_5": 13.778200432190784}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696503.2821064, "type": "traffic", "vehicles_per_min": 20, "avg_speed": 29}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696498.2706945, "type": "traffic", "vehicles_per_min": 26, "avg_speed": 22}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696517.2419875, "type": "traffic", "vehicles_per_min": 8, "avg_speed": 17}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696520.4546928, "type": "traffic", "vehicles_per_min": 25, "avg_speed": 10}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696517.2976367, "type": "traffic", "vehicles_per_min": 9, "avg_speed": 25}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696523.4863465, "type": "traffic", "vehicles_per_min": 18, "avg_speed": 18}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696517.5408747, "type": "air", "co2": 1419.5542167413441, "pm10": 28.917012665746284, "pm2_5": 19.89347574484091}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696504.3540614, "type": "traffic", "vehicles_per_min": 3, "avg_speed": 40}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696504.2824228, "type": "traffic", "vehicles_per_min": 8, "avg_speed": 28}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696499.2712824, "type": "traffic", "vehicles_per_min": 16, "avg_speed": 26}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696518.2430112, "type": "traffic", "vehicles_per_min": 2, "avg_speed": 24}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696521.4558368, "type": "traffic", "vehicles_per_min": 29, "avg_speed": 39}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696518.2979827, "type": "traffic", "vehicles_per_min": 18, "avg_speed": 19}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696524.4869826, "type": "traffic", "vehicles_per_min": 8, "avg_speed": 35}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696518.5483794, "type": "air", "co2": 1145.5580972143011, "pm10": 30.631907579132047, "pm2_5": 19.619278468962175}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696505.354883, "type": "traffic", "vehicles_per_min": 25, "avg_speed": 25}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696505.2829537, "type": "traffic", "vehicles_per_min": 10, "avg_speed": 15}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696500.272095, "type": "traffic", "vehicles_per_min": 15, "avg_speed": 34}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696519.2987945, "type": "traffic", "vehicles_per_min": 20, "avg_speed": 38}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696525.4927802, "type": "traffic", "vehicles_per_min": 2, "avg_speed": 30}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696506.355871, "type": "traffic", "vehicles_per_min": 7, "avg_speed": 15}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696506.2845533, "type": "traffic", "vehicles_per_min": 25, "avg_speed": 21}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696501.2812998, "type": "traffic", "vehicles_per_min": 10, "avg_speed": 29}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696520.2532375, "type": "traffic", "vehicles_per_min": 0, "avg_speed": 19}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696526.5166867, "type": "traffic", "vehicles_per_min": 25, "avg_speed": 22}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696520.550137, "type": "air", "co2": 1364.492010849061, "pm10": 27.84986692823818, "pm2_5": 13.805587382465777}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696507.3567827, "type": "traffic", "vehicles_per_min": 14, "avg_speed": 17}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696507.2852511, "type": "traffic", "vehicles_per_min": 8, "avg_speed": 25}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696502.2818296, "type": "traffic", "vehicles_per_min": 9, "avg_speed": 40}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696521.2550073, "type": "traffic", "vehicles_per_min": 29, "avg_speed": 36}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696524.4859514, "type": "traffic", "vehicles_per_min": 0, "avg_speed": 37}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696521.3037705, "type": "traffic", "vehicles_per_min": 6, "avg_speed": 18}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696527.5171008, "type": "traffic", "vehicles_per_min": 13, "avg_speed": 16}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696521.550945, "type": "air", "co2": 1404.2074779056115, "pm10": 25.54500034203674, "pm2_5": 17.603815783868132}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696508.357465, "type": "traffic", "vehicles_per_min": 11, "avg_speed": 13}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696508.289431, "type": "traffic", "vehicles_per_min": 15, "avg_speed": 18}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696503.2821994, "type": "traffic", "vehicles_per_min": 1, "avg_speed": 29}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696522.2555678, "type": "traffic", "vehicles_per_min": 18, "avg_speed": 40}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696525.4925094, "type": "traffic", "vehicles_per_min": 23, "avg_speed": 16}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696522.3045528, "type": "traffic", "vehicles_per_min": 19, "avg_speed": 21}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696528.518049, "type": "traffic", "vehicles_per_min": 14, "avg_speed": 34}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696522.5741208, "type": "air", "co2": 1043.5123900026974, "pm10": 29.027857811614666, "pm2_5": 10.038383986324904}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696509.358155, "type": "traffic", "vehicles_per_min": 12, "avg_speed": 11}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696509.2909272, "type": "traffic", "vehicles_per_min": 19, "avg_speed": 27}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696504.282666, "type": "traffic", "vehicles_per_min": 16, "avg_speed": 24}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696523.2562063, "type": "traffic", "vehicles_per_min": 30, "avg_speed": 19}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696526.5169458, "type": "traffic", "vehicles_per_min": 1, "avg_speed": 40}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696523.3050177, "type": "traffic", "vehicles_per_min": 13, "avg_speed": 33}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696532.5207875, "type": "traffic", "vehicles_per_min": 11, "avg_speed": 20}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696523.6629083, "type": "air", "co2": 1071.8609562603503, "pm10": 32.69718150358211, "pm2_5": 14.94173851541163}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696510.3586895, "type": "traffic", "vehicles_per_min": 29, "avg_speed": 24}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696510.292068, "type": "traffic", "vehicles_per_min": 5, "avg_speed": 12}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696505.2835698, "type": "traffic", "vehicles_per_min": 4, "avg_speed": 39}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696527.5175834, "type": "traffic", "vehicles_per_min": 30, "avg_speed": 25}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696524.3053162, "type": "traffic", "vehicles_per_min": 2, "avg_speed": 36}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696533.5215888, "type": "traffic", "vehicles_per_min": 19, "avg_speed": 21}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696524.6633513, "type": "air", "co2": 1049.413542837085, "pm10": 27.91947699703087, "pm2_5": 19.762720890703065}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696511.35931, "type": "traffic", "vehicles_per_min": 2, "avg_speed": 14}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696511.2931082, "type": "traffic", "vehicles_per_min": 16, "avg_speed": 26}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696506.2842176, "type": "traffic", "vehicles_per_min": 5, "avg_speed": 34}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696528.518223, "type": "traffic", "vehicles_per_min": 30, "avg_speed": 35}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696525.3153543, "type": "traffic", "vehicles_per_min": 22, "avg_speed": 25}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696534.522049, "type": "traffic", "vehicles_per_min": 17, "avg_speed": 11}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696525.6774986, "type": "air", "co2": 1484.5101829407054, "pm10": 34.641595171982225, "pm2_5": 12.148890059840435}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696512.3644524, "type": "traffic", "vehicles_per_min": 3, "avg_speed": 33}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696512.2981205, "type": "traffic", "vehicles_per_min": 13, "avg_speed": 19}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696507.28503, "type": "traffic", "vehicles_per_min": 28, "avg_speed": 20}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696526.336377, "type": "traffic", "vehicles_per_min": 27, "avg_speed": 21}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696529.51965, "type": "traffic", "vehicles_per_min": 25, "avg_speed": 12}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696526.337577, "type": "traffic", "vehicles_per_min": 24, "avg_speed": 26}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696526.6854706, "type": "air", "co2": 1086.432651235825, "pm10": 34.58722161584756, "pm2_5": 12.727813269376039}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696513.2985973, "type": "traffic", "vehicles_per_min": 10, "avg_speed": 16}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696508.289686, "type": "traffic", "vehicles_per_min": 15, "avg_speed": 35}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696527.336976, "type": "traffic", "vehicles_per_min": 29, "avg_speed": 16}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696530.5208495, "type": "traffic", "vehicles_per_min": 11, "avg_speed": 19}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696527.3379953, "type": "traffic", "vehicles_per_min": 19, "avg_speed": 19}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696536.5257657, "type": "traffic", "vehicles_per_min": 20, "avg_speed": 25}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696527.6873682, "type": "air", "co2": 1395.0664147269422, "pm10": 25.309322131919995, "pm2_5": 15.313657464796258}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696514.3658445, "type": "traffic", "vehicles_per_min": 26, "avg_speed": 11}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696514.2992663, "type": "traffic", "vehicles_per_min": 21, "avg_speed": 24}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696509.2906027, "type": "traffic", "vehicles_per_min": 6, "avg_speed": 19}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696528.3378205, "type": "traffic", "vehicles_per_min": 29, "avg_speed": 23}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696531.5219567, "type": "traffic", "vehicles_per_min": 27, "avg_speed": 32}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696528.3383732, "type": "traffic", "vehicles_per_min": 30, "avg_speed": 13}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696537.5263324, "type": "traffic", "vehicles_per_min": 14, "avg_speed": 11}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696528.6881056, "type": "air", "co2": 1235.7928310194548, "pm10": 30.435884120331327, "pm2_5": 12.938531203087642}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696515.3708506, "type": "traffic", "vehicles_per_min": 19, "avg_speed": 33}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696515.3002687, "type": "traffic", "vehicles_per_min": 8, "avg_speed": 39}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696510.292667, "type": "traffic", "vehicles_per_min": 6, "avg_speed": 15}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696529.3381348, "type": "traffic", "vehicles_per_min": 18, "avg_speed": 15}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696532.522847, "type": "traffic", "vehicles_per_min": 25, "avg_speed": 39}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696529.3395019, "type": "traffic", "vehicles_per_min": 15, "avg_speed": 40}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696538.52827, "type": "traffic", "vehicles_per_min": 13, "avg_speed": 10}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696529.6886868, "type": "air", "co2": 1326.6477276729997, "pm10": 25.841291486461706, "pm2_5": 10.304013142769259}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696516.3717635, "type": "traffic", "vehicles_per_min": 11, "avg_speed": 16}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696516.3015661, "type": "traffic", "vehicles_per_min": 9, "avg_speed": 39}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696511.2936866, "type": "traffic", "vehicles_per_min": 1, "avg_speed": 10}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696530.338642, "type": "traffic", "vehicles_per_min": 24, "avg_speed": 23}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696530.3419893, "type": "traffic", "vehicles_per_min": 13, "avg_speed": 32}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696539.5296617, "type": "traffic", "vehicles_per_min": 5, "avg_speed": 20}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696530.689493, "type": "air", "co2": 1428.4588817226945, "pm10": 33.02399844095204, "pm2_5": 19.485665433238488}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696517.3727136, "type": "traffic", "vehicles_per_min": 25, "avg_speed": 31}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696517.302243, "type": "traffic", "vehicles_per_min": 28, "avg_speed": 22}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696512.2940686, "type": "traffic", "vehicles_per_min": 13, "avg_speed": 23}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696531.3391693, "type": "traffic", "vehicles_per_min": 19, "avg_speed": 32}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696534.5261502, "type": "traffic", "vehicles_per_min": 0, "avg_speed": 16}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696531.3432834, "type": "traffic", "vehicles_per_min": 1, "avg_speed": 15}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696540.530649, "type": "traffic", "vehicles_per_min": 23, "avg_speed": 15}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696518.3733184, "type": "traffic", "vehicles_per_min": 26, "avg_speed": 27}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696518.302777, "type": "traffic", "vehicles_per_min": 6, "avg_speed": 40}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696535.3411026, "type": "traffic", "vehicles_per_min": 8, "avg_speed": 24}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696535.526811, "type": "traffic", "vehicles_per_min": 17, "avg_speed": 13}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696532.344232, "type": "traffic", "vehicles_per_min": 15, "avg_speed": 15}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696541.5311775, "type": "traffic", "vehicles_per_min": 20, "avg_speed": 24}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696532.6911132, "type": "air", "co2": 1260.3095463660243, "pm10": 33.198638763303045, "pm2_5": 10.569205564292579}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696519.374315, "type": "traffic", "vehicles_per_min": 2, "avg_speed": 12}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696519.3031325, "type": "traffic", "vehicles_per_min": 13, "avg_speed": 24}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696514.298717, "type": "traffic", "vehicles_per_min": 9, "avg_speed": 39}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696539.3437164, "type": "traffic", "vehicles_per_min": 28, "avg_speed": 12}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696536.5273435, "type": "traffic", "vehicles_per_min": 22, "avg_speed": 36}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696533.345259, "type": "traffic", "vehicles_per_min": 28, "avg_speed": 40}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696542.532209, "type": "traffic", "vehicles_per_min": 12, "avg_speed": 10}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696533.6920488, "type": "air", "co2": 1394.7521712437301, "pm10": 32.80134376659876, "pm2_5": 19.155052266280748}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696520.3039882, "type": "traffic", "vehicles_per_min": 29, "avg_speed": 23}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696515.3005478, "type": "traffic", "vehicles_per_min": 6, "avg_speed": 37}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696540.3447018, "type": "traffic", "vehicles_per_min": 21, "avg_speed": 19}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696537.5278203, "type": "traffic", "vehicles_per_min": 11, "avg_speed": 23}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696534.3588948, "type": "traffic", "vehicles_per_min": 28, "avg_speed": 33}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696546.535605, "type": "traffic", "vehicles_per_min": 10, "avg_speed": 20}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696534.6950734, "type": "air", "co2": 1278.8536013056432, "pm10": 27.993617616429837, "pm2_5": 14.720406423820217}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696521.375852, "type": "traffic", "vehicles_per_min": 25, "avg_speed": 34}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696521.3049026, "type": "traffic", "vehicles_per_min": 3, "avg_speed": 39}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696516.3010306, "type": "traffic", "vehicles_per_min": 1, "avg_speed": 29}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696541.345408, "type": "traffic", "vehicles_per_min": 21, "avg_speed": 16}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696538.5285158, "type": "traffic", "vehicles_per_min": 18, "avg_speed": 20}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696535.3592734, "type": "traffic", "vehicles_per_min": 12, "avg_speed": 22}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696547.5362885, "type": "traffic", "vehicles_per_min": 20, "avg_speed": 22}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696535.6958878, "type": "air", "co2": 1279.8072419801356, "pm10": 32.19965287676451, "pm2_5": 16.631361219152836}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696522.305045, "type": "traffic", "vehicles_per_min": 5, "avg_speed": 10}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696517.301685, "type": "traffic", "vehicles_per_min": 2, "avg_speed": 33}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696542.3552387, "type": "traffic", "vehicles_per_min": 15, "avg_speed": 30}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696539.5293615, "type": "traffic", "vehicles_per_min": 4, "avg_speed": 20}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696536.3599334, "type": "traffic", "vehicles_per_min": 14, "avg_speed": 14}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696548.5367649, "type": "traffic", "vehicles_per_min": 14, "avg_speed": 16}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696536.6967733, "type": "air", "co2": 1139.0561426819875, "pm10": 33.33038402946703, "pm2_5": 13.90645184007383}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696523.3797338, "type": "traffic", "vehicles_per_min": 10, "avg_speed": 30}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696523.3055878, "type": "traffic", "vehicles_per_min": 25, "avg_speed": 11}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696518.3022928, "type": "traffic", "vehicles_per_min": 19, "avg_speed": 12}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696543.3557675, "type": "traffic", "vehicles_per_min": 4, "avg_speed": 32}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696540.53103, "type": "traffic", "vehicles_per_min": 10, "avg_speed": 34}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696537.3604257, "type": "traffic", "vehicles_per_min": 18, "avg_speed": 40}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696549.540714, "type": "traffic", "vehicles_per_min": 13, "avg_speed": 11}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696537.6981037, "type": "air", "co2": 1045.9811853451088, "pm10": 34.161804055199525, "pm2_5": 17.992183612272953}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696524.3801744, "type": "traffic", "vehicles_per_min": 3, "avg_speed": 13}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696524.305858, "type": "traffic", "vehicles_per_min": 15, "avg_speed": 31}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696519.302579, "type": "traffic", "vehicles_per_min": 5, "avg_speed": 25}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696581.6277614, "type": "air", "co2": 1263.5082743159378, "pm10": 29.51117918366665, "pm2_5": 19.84296044455581}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696544.3564997, "type": "traffic", "vehicles_per_min": 8, "avg_speed": 25}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696541.5316825, "type": "traffic", "vehicles_per_min": 0, "avg_speed": 22}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696538.3607543, "type": "traffic", "vehicles_per_min": 0, "avg_speed": 30}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696550.5413616, "type": "traffic", "vehicles_per_min": 7, "avg_speed": 25}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696538.6991081, "type": "air", "co2": 1489.701008351302, "pm10": 31.27273381915387, "pm2_5": 14.794615981255593}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696528.4173982, "type": "traffic", "vehicles_per_min": 10, "avg_speed": 15}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696528.3385093, "type": "traffic", "vehicles_per_min": 30, "avg_speed": 17}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696545.356932, "type": "traffic", "vehicles_per_min": 2, "avg_speed": 11}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696539.362307, "type": "traffic", "vehicles_per_min": 17, "avg_speed": 28}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696551.5423338, "type": "traffic", "vehicles_per_min": 10, "avg_speed": 24}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696539.7000222, "type": "air", "co2": 1349.8849779850227, "pm10": 27.32802107999673, "pm2_5": 15.77423131168961}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696529.4181817, "type": "traffic", "vehicles_per_min": 6, "avg_speed": 32}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696521.3047106, "type": "traffic", "vehicles_per_min": 14, "avg_speed": 15}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696546.3588297, "type": "traffic", "vehicles_per_min": 25, "avg_speed": 33}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696543.5335085, "type": "traffic", "vehicles_per_min": 27, "avg_speed": 24}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696540.363085, "type": "traffic", "vehicles_per_min": 30, "avg_speed": 29}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696540.7010777, "type": "air", "co2": 1106.7474718691137, "pm10": 33.32174412459431, "pm2_5": 11.448966580552431}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696530.418834, "type": "traffic", "vehicles_per_min": 16, "avg_speed": 30}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696530.342208, "type": "traffic", "vehicles_per_min": 11, "avg_speed": 33}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696547.3593915, "type": "traffic", "vehicles_per_min": 18, "avg_speed": 33}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696541.3644834, "type": "traffic", "vehicles_per_min": 13, "avg_speed": 11}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696553.5443811, "type": "traffic", "vehicles_per_min": 0, "avg_speed": 15}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696541.7016137, "type": "air", "co2": 1074.2106815823277, "pm10": 30.27725653404081, "pm2_5": 17.752162566624875}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696531.419502, "type": "traffic", "vehicles_per_min": 3, "avg_speed": 10}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696523.3054967, "type": "traffic", "vehicles_per_min": 20, "avg_speed": 30}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696548.360247, "type": "traffic", "vehicles_per_min": 12, "avg_speed": 20}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696545.538324, "type": "traffic", "vehicles_per_min": 21, "avg_speed": 14}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696542.3665073, "type": "traffic", "vehicles_per_min": 3, "avg_speed": 33}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696542.702351, "type": "air", "co2": 1080.803376246564, "pm10": 28.198831507858447, "pm2_5": 11.761710257504745}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696532.420337, "type": "traffic", "vehicles_per_min": 13, "avg_speed": 24}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696532.3440127, "type": "traffic", "vehicles_per_min": 8, "avg_speed": 20}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696524.3057938, "type": "traffic", "vehicles_per_min": 3, "avg_speed": 11}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696549.3609834, "type": "traffic", "vehicles_per_min": 6, "avg_speed": 18}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696546.539355, "type": "traffic", "vehicles_per_min": 23, "avg_speed": 34}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696555.5461068, "type": "traffic", "vehicles_per_min": 18, "avg_speed": 22}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696543.7028806, "type": "air", "co2": 1061.8669486652036, "pm10": 29.089334694841767, "pm2_5": 12.861623471773818}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696533.421153, "type": "traffic", "vehicles_per_min": 26, "avg_speed": 15}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696533.345042, "type": "traffic", "vehicles_per_min": 24, "avg_speed": 21}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696525.3158052, "type": "traffic", "vehicles_per_min": 1, "avg_speed": 32}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696547.540455, "type": "traffic", "vehicles_per_min": 28, "avg_speed": 33}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696544.3674595, "type": "traffic", "vehicles_per_min": 25, "avg_speed": 34}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696556.5472338, "type": "traffic", "vehicles_per_min": 0, "avg_speed": 37}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696544.7033465, "type": "air", "co2": 1153.8612246812272, "pm10": 30.778093912562362, "pm2_5": 13.82734704488044}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696534.4219327, "type": "traffic", "vehicles_per_min": 7, "avg_speed": 40}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696526.340584, "type": "traffic", "vehicles_per_min": 11, "avg_speed": 16}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696551.3623328, "type": "traffic", "vehicles_per_min": 9, "avg_speed": 22}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696548.5411873, "type": "traffic", "vehicles_per_min": 4, "avg_speed": 16}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696545.3677545, "type": "traffic", "vehicles_per_min": 30, "avg_speed": 15}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696557.548227, "type": "traffic", "vehicles_per_min": 23, "avg_speed": 40}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696545.7042365, "type": "air", "co2": 1167.1660326559283, "pm10": 25.86105638322964, "pm2_5": 19.924123573154173}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696535.3597612, "type": "traffic", "vehicles_per_min": 24, "avg_speed": 36}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696527.3415687, "type": "traffic", "vehicles_per_min": 6, "avg_speed": 40}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696552.3635519, "type": "traffic", "vehicles_per_min": 13, "avg_speed": 29}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696549.5417502, "type": "traffic", "vehicles_per_min": 6, "avg_speed": 30}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696546.3683665, "type": "traffic", "vehicles_per_min": 8, "avg_speed": 21}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696558.549395, "type": "traffic", "vehicles_per_min": 10, "avg_speed": 28}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696546.7051027, "type": "air", "co2": 1187.262755415551, "pm10": 27.546115698674885, "pm2_5": 14.516136356438734}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696536.4235551, "type": "traffic", "vehicles_per_min": 16, "avg_speed": 11}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696536.3606346, "type": "traffic", "vehicles_per_min": 8, "avg_speed": 17}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696528.3433683, "type": "traffic", "vehicles_per_min": 26, "avg_speed": 32}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696550.542345, "type": "traffic", "vehicles_per_min": 10, "avg_speed": 29}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696547.3693316, "type": "traffic", "vehicles_per_min": 2, "avg_speed": 28}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696559.5498428, "type": "traffic", "vehicles_per_min": 26, "avg_speed": 19}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696547.705606, "type": "air", "co2": 1413.7080665452102, "pm10": 25.532225233499148, "pm2_5": 13.416288476855609}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696537.4247057, "type": "traffic", "vehicles_per_min": 21, "avg_speed": 36}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696537.3609385, "type": "traffic", "vehicles_per_min": 22, "avg_speed": 36}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696529.3438168, "type": "traffic", "vehicles_per_min": 2, "avg_speed": 37}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696554.3652048, "type": "traffic", "vehicles_per_min": 13, "avg_speed": 22}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696551.542806, "type": "traffic", "vehicles_per_min": 23, "avg_speed": 38}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696548.3697975, "type": "traffic", "vehicles_per_min": 13, "avg_speed": 37}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696560.5508056, "type": "traffic", "vehicles_per_min": 21, "avg_speed": 19}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696548.7061186, "type": "air", "co2": 1210.353149335647, "pm10": 25.387003828919823, "pm2_5": 17.858503298356}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696538.4258258, "type": "traffic", "vehicles_per_min": 2, "avg_speed": 27}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696538.3613544, "type": "traffic", "vehicles_per_min": 22, "avg_speed": 24}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696530.3452785, "type": "traffic", "vehicles_per_min": 2, "avg_speed": 34}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696552.543489, "type": "traffic", "vehicles_per_min": 8, "avg_speed": 30}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696549.3704855, "type": "traffic", "vehicles_per_min": 29, "avg_speed": 33}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696561.552112, "type": "traffic", "vehicles_per_min": 1, "avg_speed": 28}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696539.4264884, "type": "traffic", "vehicles_per_min": 1, "avg_speed": 17}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696539.3626304, "type": "traffic", "vehicles_per_min": 4, "avg_speed": 26}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696531.3515174, "type": "traffic", "vehicles_per_min": 15, "avg_speed": 40}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696556.3668077, "type": "traffic", "vehicles_per_min": 27, "avg_speed": 12}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696553.5440805, "type": "traffic", "vehicles_per_min": 0, "avg_speed": 25}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696550.3709424, "type": "traffic", "vehicles_per_min": 20, "avg_speed": 35}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696562.5532196, "type": "traffic", "vehicles_per_min": 10, "avg_speed": 10}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696540.3636813, "type": "traffic", "vehicles_per_min": 29, "avg_speed": 11}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696532.3524163, "type": "traffic", "vehicles_per_min": 24, "avg_speed": 17}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696582.6284766, "type": "air", "co2": 1312.6803775202234, "pm10": 25.034665658423528, "pm2_5": 11.322936967167315}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696554.5450857, "type": "traffic", "vehicles_per_min": 1, "avg_speed": 39}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696551.371955, "type": "traffic", "vehicles_per_min": 12, "avg_speed": 34}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696563.5537665, "type": "traffic", "vehicles_per_min": 20, "avg_speed": 30}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696551.7078826, "type": "air", "co2": 1246.3910991964171, "pm10": 26.000614875986532, "pm2_5": 16.36984793425004}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696541.4286063, "type": "traffic", "vehicles_per_min": 1, "avg_speed": 34}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696541.3647437, "type": "traffic", "vehicles_per_min": 15, "avg_speed": 25}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696533.3530009, "type": "traffic", "vehicles_per_min": 23, "avg_speed": 23}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696561.3694725, "type": "traffic", "vehicles_per_min": 6, "avg_speed": 36}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696555.5458257, "type": "traffic", "vehicles_per_min": 18, "avg_speed": 31}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696552.3734634, "type": "traffic", "vehicles_per_min": 5, "avg_speed": 36}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696564.5549924, "type": "traffic", "vehicles_per_min": 28, "avg_speed": 17}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696552.7083452, "type": "air", "co2": 1283.095244045088, "pm10": 30.626531717048458, "pm2_5": 18.90247077530416}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696542.4295423, "type": "traffic", "vehicles_per_min": 28, "avg_speed": 30}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696534.359392, "type": "traffic", "vehicles_per_min": 23, "avg_speed": 10}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696562.3706884, "type": "traffic", "vehicles_per_min": 1, "avg_speed": 20}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696556.5469356, "type": "traffic", "vehicles_per_min": 28, "avg_speed": 39}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696553.3861172, "type": "traffic", "vehicles_per_min": 8, "avg_speed": 17}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696553.709163, "type": "air", "co2": 1411.8238315938388, "pm10": 31.07138578835697, "pm2_5": 17.13780347817525}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696543.3668745, "type": "traffic", "vehicles_per_min": 19, "avg_speed": 12}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696535.3598976, "type": "traffic", "vehicles_per_min": 28, "avg_speed": 31}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696563.3714483, "type": "traffic", "vehicles_per_min": 26, "avg_speed": 14}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696554.3878984, "type": "traffic", "vehicles_per_min": 20, "avg_speed": 25}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696566.5564942, "type": "traffic", "vehicles_per_min": 23, "avg_speed": 23}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696554.7105684, "type": "air", "co2": 1015.0573255859073, "pm10": 32.34660133254028, "pm2_5": 12.48259822695282}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696544.4306624, "type": "traffic", "vehicles_per_min": 1, "avg_speed": 17}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696544.367293, "type": "traffic", "vehicles_per_min": 9, "avg_speed": 28}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696536.360381, "type": "traffic", "vehicles_per_min": 29, "avg_speed": 15}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696564.3721864, "type": "traffic", "vehicles_per_min": 16, "avg_speed": 25}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696558.5490322, "type": "traffic", "vehicles_per_min": 30, "avg_speed": 18}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696555.3896081, "type": "traffic", "vehicles_per_min": 17, "avg_speed": 13}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696567.5576184, "type": "traffic", "vehicles_per_min": 14, "avg_speed": 29}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696555.7120044, "type": "air", "co2": 1028.4817368887102, "pm10": 26.256319612867333, "pm2_5": 13.824403726105404}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696545.4314163, "type": "traffic", "vehicles_per_min": 11, "avg_speed": 31}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696545.3679824, "type": "traffic", "vehicles_per_min": 0, "avg_speed": 10}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696537.361027, "type": "traffic", "vehicles_per_min": 0, "avg_speed": 14}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696562.5504513, "type": "traffic", "vehicles_per_min": 17, "avg_speed": 16}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696556.712493, "type": "air", "co2": 1064.539231327056, "pm10": 28.50821689288948, "pm2_5": 11.490349955976239}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696546.4322543, "type": "traffic", "vehicles_per_min": 26, "avg_speed": 28}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696546.3686428, "type": "traffic", "vehicles_per_min": 24, "avg_speed": 27}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696538.361256, "type": "traffic", "vehicles_per_min": 5, "avg_speed": 33}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696566.3745265, "type": "traffic", "vehicles_per_min": 18, "avg_speed": 25}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696563.5511765, "type": "traffic", "vehicles_per_min": 29, "avg_speed": 32}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696557.391726, "type": "traffic", "vehicles_per_min": 11, "avg_speed": 32}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696572.5600688, "type": "traffic", "vehicles_per_min": 2, "avg_speed": 31}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696557.713394, "type": "air", "co2": 1203.164496830967, "pm10": 25.987183310758812, "pm2_5": 13.894975606238354}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696547.433041, "type": "traffic", "vehicles_per_min": 2, "avg_speed": 29}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696547.3690758, "type": "traffic", "vehicles_per_min": 10, "avg_speed": 22}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696539.3629575, "type": "traffic", "vehicles_per_min": 21, "avg_speed": 31}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696567.3755932, "type": "traffic", "vehicles_per_min": 9, "avg_speed": 40}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696564.552204, "type": "traffic", "vehicles_per_min": 13, "avg_speed": 10}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696558.392439, "type": "traffic", "vehicles_per_min": 26, "avg_speed": 16}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696573.560676, "type": "traffic", "vehicles_per_min": 26, "avg_speed": 11}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696558.713926, "type": "air", "co2": 1035.0846180967176, "pm10": 28.820588914365374, "pm2_5": 15.964882260010755}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696548.433488, "type": "traffic", "vehicles_per_min": 11, "avg_speed": 30}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696548.3695712, "type": "traffic", "vehicles_per_min": 7, "avg_speed": 35}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696540.3633628, "type": "traffic", "vehicles_per_min": 15, "avg_speed": 23}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696568.3763995, "type": "traffic", "vehicles_per_min": 3, "avg_speed": 28}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696565.5529578, "type": "traffic", "vehicles_per_min": 27, "avg_speed": 21}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696559.393304, "type": "traffic", "vehicles_per_min": 1, "avg_speed": 24}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696574.5629325, "type": "traffic", "vehicles_per_min": 19, "avg_speed": 10}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696559.714415, "type": "air", "co2": 1042.060003460167, "pm10": 29.063844133055092, "pm2_5": 16.8807724228455}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696549.434223, "type": "traffic", "vehicles_per_min": 0, "avg_speed": 21}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696549.3703685, "type": "traffic", "vehicles_per_min": 23, "avg_speed": 14}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696569.3774948, "type": "traffic", "vehicles_per_min": 9, "avg_speed": 33}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696569.5551398, "type": "traffic", "vehicles_per_min": 7, "avg_speed": 38}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696560.3939447, "type": "traffic", "vehicles_per_min": 0, "avg_speed": 20}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696560.714729, "type": "air", "co2": 1171.618362415463, "pm10": 31.649749497266427, "pm2_5": 13.972720666803408}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696550.3711808, "type": "traffic", "vehicles_per_min": 23, "avg_speed": 12}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696545.3663986, "type": "traffic", "vehicles_per_min": 29, "avg_speed": 23}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696570.3783503, "type": "traffic", "vehicles_per_min": 11, "avg_speed": 27}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696570.555744, "type": "traffic", "vehicles_per_min": 24, "avg_speed": 18}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696561.3946562, "type": "traffic", "vehicles_per_min": 13, "avg_speed": 36}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696576.5704303, "type": "traffic", "vehicles_per_min": 26, "avg_speed": 19}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696561.7154741, "type": "air", "co2": 1366.719628646465, "pm10": 32.151233139044095, "pm2_5": 14.073503566578351}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696551.4357173, "type": "traffic", "vehicles_per_min": 21, "avg_speed": 34}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696551.3722537, "type": "traffic", "vehicles_per_min": 17, "avg_speed": 17}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696571.3790612, "type": "traffic", "vehicles_per_min": 24, "avg_speed": 21}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696571.5574377, "type": "traffic", "vehicles_per_min": 29, "avg_speed": 30}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696562.3954597, "type": "traffic", "vehicles_per_min": 9, "avg_speed": 36}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696577.5711474, "type": "traffic", "vehicles_per_min": 17, "avg_speed": 18}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696562.7166202, "type": "air", "co2": 1335.395687678545, "pm10": 29.9970603596841, "pm2_5": 17.003507083549728}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696552.436322, "type": "traffic", "vehicles_per_min": 22, "avg_speed": 29}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696552.3739324, "type": "traffic", "vehicles_per_min": 0, "avg_speed": 37}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696547.3680525, "type": "traffic", "vehicles_per_min": 3, "avg_speed": 40}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696572.379782, "type": "traffic", "vehicles_per_min": 23, "avg_speed": 17}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696572.5580444, "type": "traffic", "vehicles_per_min": 16, "avg_speed": 40}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696563.3964496, "type": "traffic", "vehicles_per_min": 24, "avg_speed": 10}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696578.5723405, "type": "traffic", "vehicles_per_min": 13, "avg_speed": 34}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696563.7175465, "type": "air", "co2": 1275.5349398277694, "pm10": 34.874841963237685, "pm2_5": 16.710421627820775}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696553.436974, "type": "traffic", "vehicles_per_min": 13, "avg_speed": 20}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696553.3867722, "type": "traffic", "vehicles_per_min": 14, "avg_speed": 27}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696548.3685658, "type": "traffic", "vehicles_per_min": 8, "avg_speed": 36}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696573.3804176, "type": "traffic", "vehicles_per_min": 15, "avg_speed": 21}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696573.5586514, "type": "traffic", "vehicles_per_min": 11, "avg_speed": 25}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696564.3974245, "type": "traffic", "vehicles_per_min": 30, "avg_speed": 38}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696579.5729263, "type": "traffic", "vehicles_per_min": 1, "avg_speed": 19}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696564.7187657, "type": "air", "co2": 1390.298440182344, "pm10": 32.76049332805404, "pm2_5": 12.395966726469148}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696554.437945, "type": "traffic", "vehicles_per_min": 29, "avg_speed": 39}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696554.387601, "type": "traffic", "vehicles_per_min": 17, "avg_speed": 35}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696574.3845663, "type": "traffic", "vehicles_per_min": 15, "avg_speed": 15}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696574.5595603, "type": "traffic", "vehicles_per_min": 5, "avg_speed": 19}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696565.3983278, "type": "traffic", "vehicles_per_min": 24, "avg_speed": 32}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696565.7196069, "type": "air", "co2": 1090.931534161517, "pm10": 27.446988461984393, "pm2_5": 16.919456049279873}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696555.4387817, "type": "traffic", "vehicles_per_min": 16, "avg_speed": 27}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696555.3890421, "type": "traffic", "vehicles_per_min": 29, "avg_speed": 35}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696550.369896, "type": "traffic", "vehicles_per_min": 22, "avg_speed": 40}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696575.3869653, "type": "traffic", "vehicles_per_min": 21, "avg_speed": 36}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696575.5691726, "type": "traffic", "vehicles_per_min": 6, "avg_speed": 34}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696566.3998382, "type": "traffic", "vehicles_per_min": 13, "avg_speed": 10}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696581.5751872, "type": "traffic", "vehicles_per_min": 10, "avg_speed": 39}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696566.7208095, "type": "air", "co2": 1182.7331351811567, "pm10": 27.120881698154548, "pm2_5": 15.91876712767151}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696559.4402812, "type": "traffic", "vehicles_per_min": 22, "avg_speed": 29}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696556.3901746, "type": "traffic", "vehicles_per_min": 6, "avg_speed": 17}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696551.370601, "type": "traffic", "vehicles_per_min": 5, "avg_speed": 18}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696576.57013, "type": "traffic", "vehicles_per_min": 11, "avg_speed": 36}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696570.4018776, "type": "traffic", "vehicles_per_min": 7, "avg_speed": 12}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696582.577706, "type": "traffic", "vehicles_per_min": 2, "avg_speed": 12}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696567.7222514, "type": "air", "co2": 1233.647303999688, "pm10": 28.974507234989503, "pm2_5": 12.882960193166786}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696560.4406028, "type": "traffic", "vehicles_per_min": 21, "avg_speed": 16}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696552.371545, "type": "traffic", "vehicles_per_min": 7, "avg_speed": 33}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696577.3882992, "type": "traffic", "vehicles_per_min": 5, "avg_speed": 26}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696577.5713675, "type": "traffic", "vehicles_per_min": 6, "avg_speed": 17}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696571.402794, "type": "traffic", "vehicles_per_min": 17, "avg_speed": 36}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696553.37251, "type": "traffic", "vehicles_per_min": 10, "avg_speed": 31}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696568.7230964, "type": "air", "co2": 1297.425501384891, "pm10": 28.680467453757586, "pm2_5": 14.454473443449647}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696561.4412262, "type": "traffic", "vehicles_per_min": 24, "avg_speed": 24}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696558.3926055, "type": "traffic", "vehicles_per_min": 28, "avg_speed": 11}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696578.3890975, "type": "traffic", "vehicles_per_min": 0, "avg_speed": 13}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696572.403612, "type": "traffic", "vehicles_per_min": 1, "avg_speed": 14}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696554.3734722, "type": "traffic", "vehicles_per_min": 24, "avg_speed": 18}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696569.7239242, "type": "air", "co2": 1117.386084175451, "pm10": 32.98848015188938, "pm2_5": 14.553775477191026}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696562.442159, "type": "traffic", "vehicles_per_min": 18, "avg_speed": 28}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696559.3931358, "type": "traffic", "vehicles_per_min": 3, "avg_speed": 20}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696579.389897, "type": "traffic", "vehicles_per_min": 17, "avg_speed": 24}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696579.572795, "type": "traffic", "vehicles_per_min": 26, "avg_speed": 35}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696573.404979, "type": "traffic", "vehicles_per_min": 4, "avg_speed": 36}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696555.3744643, "type": "traffic", "vehicles_per_min": 4, "avg_speed": 28}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696573.7257626, "type": "air", "co2": 1162.9440226428255, "pm10": 29.438617667637704, "pm2_5": 11.749257857692005}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696563.4429688, "type": "traffic", "vehicles_per_min": 22, "avg_speed": 24}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696560.393674, "type": "traffic", "vehicles_per_min": 9, "avg_speed": 15}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696561.3949523, "type": "traffic", "vehicles_per_min": 23, "avg_speed": 17}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696580.5748847, "type": "traffic", "vehicles_per_min": 9, "avg_speed": 11}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696574.4226892, "type": "traffic", "vehicles_per_min": 18, "avg_speed": 21}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696556.3759396, "type": "traffic", "vehicles_per_min": 5, "avg_speed": 28}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696574.726515, "type": "air", "co2": 1207.4654285784636, "pm10": 28.34601135337633, "pm2_5": 17.652952955860464}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696562.3957527, "type": "traffic", "vehicles_per_min": 23, "avg_speed": 22}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696581.575914, "type": "traffic", "vehicles_per_min": 12, "avg_speed": 38}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696557.3769507, "type": "traffic", "vehicles_per_min": 29, "avg_speed": 40}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696575.7274363, "type": "air", "co2": 1470.8678297696533, "pm10": 31.89880554479085, "pm2_5": 19.024290510669864}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696565.444888, "type": "traffic", "vehicles_per_min": 20, "avg_speed": 37}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696563.3967822, "type": "traffic", "vehicles_per_min": 24, "avg_speed": 11}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696582.5771482, "type": "traffic", "vehicles_per_min": 4, "avg_speed": 13}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696558.377735, "type": "traffic", "vehicles_per_min": 11, "avg_speed": 15}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696576.729243, "type": "air", "co2": 1183.0243032357323, "pm10": 29.907271386742103, "pm2_5": 13.142310248222827}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696566.4454834, "type": "traffic", "vehicles_per_min": 18, "avg_speed": 16}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696564.3977268, "type": "traffic", "vehicles_per_min": 24, "avg_speed": 40}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696567.446201, "type": "traffic", "vehicles_per_min": 4, "avg_speed": 23}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696577.4423785, "type": "traffic", "vehicles_per_min": 7, "avg_speed": 27}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696559.3782542, "type": "traffic", "vehicles_per_min": 26, "avg_speed": 38}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696565.39863, "type": "traffic", "vehicles_per_min": 29, "avg_speed": 34}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696568.4473472, "type": "traffic", "vehicles_per_min": 19, "avg_speed": 34}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696578.4431744, "type": "traffic", "vehicles_per_min": 22, "avg_speed": 20}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696560.379108, "type": "traffic", "vehicles_per_min": 9, "avg_speed": 40}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696581.7332778, "type": "air", "co2": 1113.5871276704913, "pm10": 25.96428878287305, "pm2_5": 15.448365973363464}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696566.3995311, "type": "traffic", "vehicles_per_min": 14, "avg_speed": 20}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696569.4481883, "type": "traffic", "vehicles_per_min": 28, "avg_speed": 21}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696579.4443638, "type": "traffic", "vehicles_per_min": 18, "avg_speed": 28}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696561.3800375, "type": "traffic", "vehicles_per_min": 28, "avg_speed": 35}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696582.7343547, "type": "air", "co2": 1228.8612077962957, "pm10": 32.48498281574672, "pm2_5": 11.203638398273513}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696567.4007573, "type": "traffic", "vehicles_per_min": 16, "avg_speed": 25}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696570.4490983, "type": "traffic", "vehicles_per_min": 7, "avg_speed": 27}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696580.472069, "type": "traffic", "vehicles_per_min": 20, "avg_speed": 38}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696562.3811831, "type": "traffic", "vehicles_per_min": 0, "avg_speed": 15}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696583.4265285, "type": "traffic", "vehicles_per_min": 17, "avg_speed": 19}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696568.4018934, "type": "traffic", "vehicles_per_min": 7, "avg_speed": 11}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696571.4510832, "type": "traffic", "vehicles_per_min": 3, "avg_speed": 12}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696581.4790413, "type": "traffic", "vehicles_per_min": 6, "avg_speed": 28}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696566.3831167, "type": "traffic", "vehicles_per_min": 17, "avg_speed": 40}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696572.4520068, "type": "traffic", "vehicles_per_min": 10, "avg_speed": 36}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696582.4815555, "type": "traffic", "vehicles_per_min": 26, "avg_speed": 10}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696567.3837395, "type": "traffic", "vehicles_per_min": 4, "avg_speed": 28}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696570.4037278, "type": "traffic", "vehicles_per_min": 30, "avg_speed": 40}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696573.452377, "type": "traffic", "vehicles_per_min": 2, "avg_speed": 17}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696583.4832752, "type": "traffic", "vehicles_per_min": 5, "avg_speed": 33}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696568.3846714, "type": "traffic", "vehicles_per_min": 12, "avg_speed": 25}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696571.404299, "type": "traffic", "vehicles_per_min": 4, "avg_speed": 32}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696569.38562, "type": "traffic", "vehicles_per_min": 17, "avg_speed": 11}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696572.4044807, "type": "traffic", "vehicles_per_min": 29, "avg_speed": 17}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696575.4729655, "type": "traffic", "vehicles_per_min": 20, "avg_speed": 38}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696570.386346, "type": "traffic", "vehicles_per_min": 13, "avg_speed": 22}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696573.4047873, "type": "traffic", "vehicles_per_min": 17, "avg_speed": 19}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696576.480741, "type": "traffic", "vehicles_per_min": 5, "avg_speed": 40}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696574.4224722, "type": "traffic", "vehicles_per_min": 16, "avg_speed": 24}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696572.3878362, "type": "traffic", "vehicles_per_min": 16, "avg_speed": 18}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696575.4235108, "type": "traffic", "vehicles_per_min": 3, "avg_speed": 38}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696578.48225, "type": "traffic", "vehicles_per_min": 19, "avg_speed": 34}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696573.388483, "type": "traffic", "vehicles_per_min": 16, "avg_speed": 28}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696576.4296415, "type": "traffic", "vehicles_per_min": 16, "avg_speed": 25}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696579.4845133, "type": "traffic", "vehicles_per_min": 30, "avg_speed": 24}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696574.4203968, "type": "traffic", "vehicles_per_min": 23, "avg_speed": 36}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696583.4416437, "type": "traffic", "vehicles_per_min": 12, "avg_speed": 19}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696580.4859722, "type": "traffic", "vehicles_per_min": 3, "avg_speed": 30}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696575.422207, "type": "traffic", "vehicles_per_min": 4, "avg_speed": 32}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696576.4228575, "type": "traffic", "vehicles_per_min": 0, "avg_speed": 40}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696581.494174, "type": "traffic", "vehicles_per_min": 15, "avg_speed": 24}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696577.4237955, "type": "traffic", "vehicles_per_min": 11, "avg_speed": 13}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696582.4953218, "type": "traffic", "vehicles_per_min": 16, "avg_speed": 39}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696581.4283795, "type": "traffic", "vehicles_per_min": 26, "avg_speed": 31}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696583.499006, "type": "traffic", "vehicles_per_min": 6, "avg_speed": 36}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696582.4323797, "type": "traffic", "vehicles_per_min": 19, "avg_speed": 16}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696583.5787675, "type": "traffic", "vehicles_per_min": 20, "avg_speed": 39}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696583.5789363, "type": "traffic", "vehicles_per_min": 0, "avg_speed": 35}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696583.6289403, "type": "air", "co2": 1476.6810618729935, "pm10": 25.225569784360744, "pm2_5": 11.958494337737726}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696583.7350845, "type": "air", "co2": 1364.1743396008628, "pm10": 27.540237480958826, "pm2_5": 12.898233175037268}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696584.42738, "type": "traffic", "vehicles_per_min": 5, "avg_speed": 32}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696584.4344854, "type": "traffic", "vehicles_per_min": 13, "avg_speed": 28}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696584.4845433, "type": "traffic", "vehicles_per_min": 12, "avg_speed": 23}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696584.500181, "type": "traffic", "vehicles_per_min": 18, "avg_speed": 33}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696584.5796337, "type": "traffic", "vehicles_per_min": 11, "avg_speed": 40}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696584.5801277, "type": "traffic", "vehicles_per_min": 23, "avg_speed": 26}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696584.7357585, "type": "air", "co2": 1077.3800054632557, "pm10": 27.796091003766488, "pm2_5": 13.43157127021594}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696585.4285324, "type": "traffic", "vehicles_per_min": 22, "avg_speed": 36}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696585.485457, "type": "traffic", "vehicles_per_min": 25, "avg_speed": 25}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696585.500878, "type": "traffic", "vehicles_per_min": 29, "avg_speed": 11}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696585.5807188, "type": "traffic", "vehicles_per_min": 29, "avg_speed": 32}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696585.5808887, "type": "traffic", "vehicles_per_min": 21, "avg_speed": 27}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696585.7397835, "type": "air", "co2": 1314.2417887857807, "pm10": 32.347814572395905, "pm2_5": 13.628336693353814}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696586.4294116, "type": "traffic", "vehicles_per_min": 6, "avg_speed": 30}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696586.4367256, "type": "traffic", "vehicles_per_min": 16, "avg_speed": 22}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696586.4861038, "type": "traffic", "vehicles_per_min": 22, "avg_speed": 14}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696586.5812263, "type": "traffic", "vehicles_per_min": 9, "avg_speed": 27}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696586.7405074, "type": "air", "co2": 1042.9923065953144, "pm10": 29.247276992912532, "pm2_5": 17.56837815920801}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696587.437833, "type": "traffic", "vehicles_per_min": 26, "avg_speed": 13}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696587.444294, "type": "traffic", "vehicles_per_min": 11, "avg_speed": 11}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696587.488684, "type": "traffic", "vehicles_per_min": 22, "avg_speed": 22}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696587.582188, "type": "traffic", "vehicles_per_min": 24, "avg_speed": 22}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696587.5824788, "type": "traffic", "vehicles_per_min": 16, "avg_speed": 24}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696587.6337583, "type": "air", "co2": 1291.7194667909353, "pm10": 34.84760076266201, "pm2_5": 18.8215268760186}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696587.7415798, "type": "air", "co2": 1385.7477668099016, "pm10": 26.890726414845332, "pm2_5": 16.814814458655235}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696588.4455655, "type": "traffic", "vehicles_per_min": 15, "avg_speed": 36}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696588.489999, "type": "traffic", "vehicles_per_min": 6, "avg_speed": 34}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696588.5830986, "type": "traffic", "vehicles_per_min": 12, "avg_speed": 14}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696588.6363819, "type": "air", "co2": 1084.2476711913703, "pm10": 28.65215836398895, "pm2_5": 15.44715630497283}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696588.7425733, "type": "air", "co2": 1320.238365912146, "pm10": 33.62882065748454, "pm2_5": 10.972553420771423}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696589.4467156, "type": "traffic", "vehicles_per_min": 0, "avg_speed": 23}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696589.491154, "type": "traffic", "vehicles_per_min": 22, "avg_speed": 22}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696589.5024865, "type": "traffic", "vehicles_per_min": 14, "avg_speed": 35}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696589.5945356, "type": "traffic", "vehicles_per_min": 18, "avg_speed": 28}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696589.6373963, "type": "air", "co2": 1062.4369891636009, "pm10": 29.77689286587688, "pm2_5": 12.67296326720145}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696589.7437468, "type": "air", "co2": 1135.8533031877575, "pm10": 31.205688908520152, "pm2_5": 11.161012414099364}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696590.4477901, "type": "traffic", "vehicles_per_min": 23, "avg_speed": 34}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696590.4918666, "type": "traffic", "vehicles_per_min": 4, "avg_speed": 28}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696590.503294, "type": "traffic", "vehicles_per_min": 7, "avg_speed": 22}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696590.6034966, "type": "traffic", "vehicles_per_min": 21, "avg_speed": 24}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696590.6381319, "type": "air", "co2": 1263.473270878071, "pm10": 29.988791879507666, "pm2_5": 12.822212344264639}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696590.7442405, "type": "air", "co2": 1042.180448558543, "pm10": 30.36979636257898, "pm2_5": 17.35287738695905}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696591.440096, "type": "traffic", "vehicles_per_min": 15, "avg_speed": 22}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696591.449108, "type": "traffic", "vehicles_per_min": 5, "avg_speed": 14}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696591.4927535, "type": "traffic", "vehicles_per_min": 4, "avg_speed": 29}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696591.5045435, "type": "traffic", "vehicles_per_min": 2, "avg_speed": 33}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696592.4413826, "type": "traffic", "vehicles_per_min": 6, "avg_speed": 16}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696592.4500904, "type": "traffic", "vehicles_per_min": 2, "avg_speed": 30}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696592.493602, "type": "traffic", "vehicles_per_min": 7, "avg_speed": 30}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696592.5055358, "type": "traffic", "vehicles_per_min": 25, "avg_speed": 39}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696592.586661, "type": "traffic", "vehicles_per_min": 18, "avg_speed": 40}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696592.639594, "type": "air", "co2": 1192.951796306421, "pm10": 31.865550583440708, "pm2_5": 10.808305140111948}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696592.746378, "type": "air", "co2": 1381.7154610144537, "pm10": 27.415589502279577, "pm2_5": 16.53395046181278}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696593.4320886, "type": "traffic", "vehicles_per_min": 30, "avg_speed": 12}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696593.4427133, "type": "traffic", "vehicles_per_min": 28, "avg_speed": 22}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696593.4509208, "type": "traffic", "vehicles_per_min": 27, "avg_speed": 23}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696593.49467, "type": "traffic", "vehicles_per_min": 17, "avg_speed": 14}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696593.5066242, "type": "traffic", "vehicles_per_min": 24, "avg_speed": 30}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696593.5873845, "type": "traffic", "vehicles_per_min": 3, "avg_speed": 17}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696593.6104362, "type": "traffic", "vehicles_per_min": 29, "avg_speed": 26}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696593.6406958, "type": "air", "co2": 1331.8613050576776, "pm10": 27.233324256601634, "pm2_5": 17.173859792677025}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696593.7478037, "type": "air", "co2": 1374.8691681406885, "pm10": 28.897730243105983, "pm2_5": 10.947904553370266}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696594.433592, "type": "traffic", "vehicles_per_min": 18, "avg_speed": 12}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696594.4517853, "type": "traffic", "vehicles_per_min": 4, "avg_speed": 40}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696594.4958837, "type": "traffic", "vehicles_per_min": 17, "avg_speed": 39}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696594.5879712, "type": "traffic", "vehicles_per_min": 23, "avg_speed": 20}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696594.6156712, "type": "traffic", "vehicles_per_min": 30, "avg_speed": 40}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696594.641928, "type": "air", "co2": 1134.0434981930766, "pm10": 27.865067806983784, "pm2_5": 10.22998422265292}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696595.434599, "type": "traffic", "vehicles_per_min": 2, "avg_speed": 24}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696595.444936, "type": "traffic", "vehicles_per_min": 25, "avg_speed": 36}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696595.4529552, "type": "traffic", "vehicles_per_min": 15, "avg_speed": 29}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696595.4973767, "type": "traffic", "vehicles_per_min": 29, "avg_speed": 25}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696595.508858, "type": "traffic", "vehicles_per_min": 5, "avg_speed": 38}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696595.588576, "type": "traffic", "vehicles_per_min": 10, "avg_speed": 28}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696595.6164048, "type": "traffic", "vehicles_per_min": 15, "avg_speed": 34}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696595.6429274, "type": "air", "co2": 1288.1733141233287, "pm10": 30.410661448709657, "pm2_5": 19.322308267793602}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696595.750423, "type": "air", "co2": 1336.204433190417, "pm10": 33.45241165832172, "pm2_5": 13.19623902819065}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696596.4361904, "type": "traffic", "vehicles_per_min": 22, "avg_speed": 25}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696596.4461825, "type": "traffic", "vehicles_per_min": 8, "avg_speed": 31}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696596.4537892, "type": "traffic", "vehicles_per_min": 12, "avg_speed": 12}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696596.498807, "type": "traffic", "vehicles_per_min": 18, "avg_speed": 23}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696596.509917, "type": "traffic", "vehicles_per_min": 26, "avg_speed": 32}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696596.589156, "type": "traffic", "vehicles_per_min": 30, "avg_speed": 35}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696596.616975, "type": "traffic", "vehicles_per_min": 17, "avg_speed": 25}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696596.644041, "type": "air", "co2": 1287.2453969245448, "pm10": 33.16707895833364, "pm2_5": 14.90551073255746}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696596.7520297, "type": "air", "co2": 1353.7902805748965, "pm10": 25.858736167836195, "pm2_5": 10.733843210634163}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696597.43716, "type": "traffic", "vehicles_per_min": 0, "avg_speed": 11}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696597.447217, "type": "traffic", "vehicles_per_min": 23, "avg_speed": 22}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696597.4548545, "type": "traffic", "vehicles_per_min": 23, "avg_speed": 12}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696597.5008743, "type": "traffic", "vehicles_per_min": 8, "avg_speed": 16}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696597.5112312, "type": "traffic", "vehicles_per_min": 11, "avg_speed": 27}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696597.5899112, "type": "traffic", "vehicles_per_min": 13, "avg_speed": 31}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696597.7534661, "type": "air", "co2": 1479.7646147109504, "pm10": 32.536033067828896, "pm2_5": 17.274770044650367}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696598.4381855, "type": "traffic", "vehicles_per_min": 13, "avg_speed": 30}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696598.4561949, "type": "traffic", "vehicles_per_min": 18, "avg_speed": 22}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696598.5128407, "type": "traffic", "vehicles_per_min": 9, "avg_speed": 23}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696598.5951285, "type": "traffic", "vehicles_per_min": 8, "avg_speed": 17}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696598.618391, "type": "traffic", "vehicles_per_min": 26, "avg_speed": 28}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696598.7544987, "type": "air", "co2": 1381.0342619597502, "pm10": 26.860480879376215, "pm2_5": 15.613632827787175}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696599.4395676, "type": "traffic", "vehicles_per_min": 19, "avg_speed": 32}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696599.449565, "type": "traffic", "vehicles_per_min": 3, "avg_speed": 17}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696599.4583254, "type": "traffic", "vehicles_per_min": 23, "avg_speed": 39}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696599.5061808, "type": "traffic", "vehicles_per_min": 10, "avg_speed": 31}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696599.6033545, "type": "traffic", "vehicles_per_min": 7, "avg_speed": 25}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696599.6192, "type": "traffic", "vehicles_per_min": 20, "avg_speed": 18}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696599.755213, "type": "air", "co2": 1369.6358259105434, "pm10": 26.589010036053985, "pm2_5": 17.53223861452937}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696600.4405203, "type": "traffic", "vehicles_per_min": 28, "avg_speed": 29}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696600.450589, "type": "traffic", "vehicles_per_min": 4, "avg_speed": 33}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696600.5146182, "type": "traffic", "vehicles_per_min": 20, "avg_speed": 30}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696600.6039667, "type": "traffic", "vehicles_per_min": 3, "avg_speed": 38}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696600.619807, "type": "traffic", "vehicles_per_min": 22, "avg_speed": 23}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696600.6456053, "type": "air", "co2": 1035.1633317974242, "pm10": 31.467555511536787, "pm2_5": 11.976787901024736}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696600.7564044, "type": "air", "co2": 1465.7227343850677, "pm10": 30.002228958060726, "pm2_5": 18.717470736473313}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696601.4414854, "type": "traffic", "vehicles_per_min": 28, "avg_speed": 15}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696601.451766, "type": "traffic", "vehicles_per_min": 6, "avg_speed": 30}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696601.4605668, "type": "traffic", "vehicles_per_min": 8, "avg_speed": 27}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696601.5087664, "type": "traffic", "vehicles_per_min": 21, "avg_speed": 33}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696601.621735, "type": "traffic", "vehicles_per_min": 16, "avg_speed": 35}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696601.7574184, "type": "air", "co2": 1358.1019114174612, "pm10": 34.09554055846145, "pm2_5": 12.490717057954427}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696602.4425006, "type": "traffic", "vehicles_per_min": 30, "avg_speed": 19}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696602.452618, "type": "traffic", "vehicles_per_min": 15, "avg_speed": 36}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696602.4618218, "type": "traffic", "vehicles_per_min": 18, "avg_speed": 29}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696602.510449, "type": "traffic", "vehicles_per_min": 28, "avg_speed": 17}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696602.6226516, "type": "traffic", "vehicles_per_min": 26, "avg_speed": 17}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696602.6471045, "type": "air", "co2": 1112.9391319616022, "pm10": 30.926181852672205, "pm2_5": 18.33617856217536}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696603.4435937, "type": "traffic", "vehicles_per_min": 8, "avg_speed": 32}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696603.4536698, "type": "traffic", "vehicles_per_min": 30, "avg_speed": 14}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696603.4635096, "type": "traffic", "vehicles_per_min": 20, "avg_speed": 22}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696603.5109382, "type": "traffic", "vehicles_per_min": 2, "avg_speed": 24}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696603.6483262, "type": "air", "co2": 1403.5340619730068, "pm10": 30.1691824558308, "pm2_5": 10.41447019390834}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696603.759748, "type": "air", "co2": 1102.7644040143093, "pm10": 31.082147046644867, "pm2_5": 18.013520266397407}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696604.444471, "type": "traffic", "vehicles_per_min": 20, "avg_speed": 33}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696604.4544704, "type": "traffic", "vehicles_per_min": 6, "avg_speed": 22}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696604.464335, "type": "traffic", "vehicles_per_min": 7, "avg_speed": 38}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696604.5172374, "type": "traffic", "vehicles_per_min": 30, "avg_speed": 37}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696604.6249244, "type": "traffic", "vehicles_per_min": 21, "avg_speed": 14}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696604.649726, "type": "air", "co2": 1451.3314273988913, "pm10": 31.1122287583596, "pm2_5": 16.841088241239753}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696604.7608984, "type": "air", "co2": 1436.8328730456483, "pm10": 25.0014772002119, "pm2_5": 19.727973180423053}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696605.4462276, "type": "traffic", "vehicles_per_min": 5, "avg_speed": 21}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696605.5129695, "type": "traffic", "vehicles_per_min": 5, "avg_speed": 26}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696605.5181193, "type": "traffic", "vehicles_per_min": 5, "avg_speed": 17}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696605.6067498, "type": "traffic", "vehicles_per_min": 20, "avg_speed": 29}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696605.6257076, "type": "traffic", "vehicles_per_min": 3, "avg_speed": 31}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696605.6504588, "type": "air", "co2": 1139.2050079435228, "pm10": 29.783788221503393, "pm2_5": 14.821882270439811}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696605.7848399, "type": "air", "co2": 1460.3090807095416, "pm10": 27.10129694373244, "pm2_5": 11.705935534798474}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696606.456977, "type": "traffic", "vehicles_per_min": 4, "avg_speed": 37}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696606.46646, "type": "traffic", "vehicles_per_min": 29, "avg_speed": 35}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696606.5141666, "type": "traffic", "vehicles_per_min": 12, "avg_speed": 19}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696606.5190094, "type": "traffic", "vehicles_per_min": 17, "avg_speed": 39}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696606.6119072, "type": "traffic", "vehicles_per_min": 2, "avg_speed": 13}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696606.659157, "type": "traffic", "vehicles_per_min": 26, "avg_speed": 10}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696606.660757, "type": "air", "co2": 1358.4219612849097, "pm10": 25.748454696807034, "pm2_5": 16.07115411846013}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696606.7857215, "type": "air", "co2": 1289.01087886401, "pm10": 31.872815665699463, "pm2_5": 12.060571108505657}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696607.448354, "type": "traffic", "vehicles_per_min": 13, "avg_speed": 11}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696607.458554, "type": "traffic", "vehicles_per_min": 10, "avg_speed": 18}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696607.4674604, "type": "traffic", "vehicles_per_min": 28, "avg_speed": 32}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696607.5149183, "type": "traffic", "vehicles_per_min": 8, "avg_speed": 33}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696607.5201278, "type": "traffic", "vehicles_per_min": 11, "avg_speed": 29}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696607.6130652, "type": "traffic", "vehicles_per_min": 16, "avg_speed": 12}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696607.665386, "type": "traffic", "vehicles_per_min": 10, "avg_speed": 33}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696608.449757, "type": "traffic", "vehicles_per_min": 6, "avg_speed": 25}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696608.5208018, "type": "traffic", "vehicles_per_min": 28, "avg_speed": 19}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696608.6138997, "type": "traffic", "vehicles_per_min": 13, "avg_speed": 23}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696608.6658094, "type": "traffic", "vehicles_per_min": 1, "avg_speed": 18}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696608.6660664, "type": "air", "co2": 1063.665536085569, "pm10": 32.13732739002115, "pm2_5": 18.48892285802131}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696609.4684086, "type": "traffic", "vehicles_per_min": 13, "avg_speed": 17}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696609.516595, "type": "traffic", "vehicles_per_min": 3, "avg_speed": 30}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696609.5224988, "type": "traffic", "vehicles_per_min": 17, "avg_speed": 27}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696609.6671135, "type": "traffic", "vehicles_per_min": 27, "avg_speed": 13}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696609.6668754, "type": "air", "co2": 1087.62479160734, "pm10": 33.91094307052303, "pm2_5": 11.00839412241433}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696609.8150287, "type": "air", "co2": 1177.2242052518172, "pm10": 32.309288780364135, "pm2_5": 12.612349721377072}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696610.4698873, "type": "traffic", "vehicles_per_min": 23, "avg_speed": 30}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696610.520618, "type": "traffic", "vehicles_per_min": 16, "avg_speed": 17}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696610.5234118, "type": "traffic", "vehicles_per_min": 17, "avg_speed": 22}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696610.6154919, "type": "traffic", "vehicles_per_min": 10, "avg_speed": 17}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696610.6677194, "type": "traffic", "vehicles_per_min": 22, "avg_speed": 20}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696610.8162265, "type": "air", "co2": 1171.3877569348192, "pm10": 32.34117470412855, "pm2_5": 17.81583570119922}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696611.4695117, "type": "traffic", "vehicles_per_min": 3, "avg_speed": 14}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696611.4710743, "type": "traffic", "vehicles_per_min": 13, "avg_speed": 40}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696611.521738, "type": "traffic", "vehicles_per_min": 24, "avg_speed": 20}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696611.5267184, "type": "traffic", "vehicles_per_min": 23, "avg_speed": 28}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696611.616497, "type": "traffic", "vehicles_per_min": 13, "avg_speed": 15}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696611.6683095, "type": "traffic", "vehicles_per_min": 30, "avg_speed": 40}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696611.66923, "type": "air", "co2": 1180.8901609114703, "pm10": 28.13297960174491, "pm2_5": 18.11537718365791}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696611.8174934, "type": "air", "co2": 1476.1079193638152, "pm10": 33.581800538680454, "pm2_5": 18.28748173433488}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696612.4516559, "type": "traffic", "vehicles_per_min": 22, "avg_speed": 22}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696612.4707177, "type": "traffic", "vehicles_per_min": 13, "avg_speed": 28}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696612.4717054, "type": "traffic", "vehicles_per_min": 14, "avg_speed": 22}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696612.522588, "type": "traffic", "vehicles_per_min": 2, "avg_speed": 27}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696612.530665, "type": "traffic", "vehicles_per_min": 1, "avg_speed": 29}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696612.6168995, "type": "traffic", "vehicles_per_min": 27, "avg_speed": 10}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696612.6693418, "type": "traffic", "vehicles_per_min": 22, "avg_speed": 36}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696612.671374, "type": "air", "co2": 1285.8516851200357, "pm10": 25.106020296825502, "pm2_5": 10.599074533858664}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696612.8182876, "type": "air", "co2": 1205.0732747701359, "pm10": 32.85896451923654, "pm2_5": 14.00054173320596}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696613.4526916, "type": "traffic", "vehicles_per_min": 19, "avg_speed": 24}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696613.4720197, "type": "traffic", "vehicles_per_min": 6, "avg_speed": 26}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696613.4733014, "type": "traffic", "vehicles_per_min": 14, "avg_speed": 23}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696613.5240965, "type": "traffic", "vehicles_per_min": 6, "avg_speed": 32}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696613.5314434, "type": "traffic", "vehicles_per_min": 14, "avg_speed": 21}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696613.6721377, "type": "air", "co2": 1199.2012175427474, "pm10": 28.632612875502904, "pm2_5": 18.045224979138332}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696613.8191168, "type": "air", "co2": 1190.8883709190018, "pm10": 34.89028980585945, "pm2_5": 13.605749312441805}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696614.4727283, "type": "traffic", "vehicles_per_min": 21, "avg_speed": 34}}
+{"data": {"sensor_id": 4, "location": "V1.1", "timestamp": 1786696614.475004, "type": "traffic", "vehicles_per_min": 12, "avg_speed": 14}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696614.5254204, "type": "traffic", "vehicles_per_min": 16, "avg_speed": 28}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696614.5325603, "type": "traffic", "vehicles_per_min": 6, "avg_speed": 10}}
+{"data": {"sensor_id": 7, "location": "V2.2", "timestamp": 1786696614.618151, "type": "traffic", "vehicles_per_min": 23, "avg_speed": 26}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696614.671033, "type": "traffic", "vehicles_per_min": 27, "avg_speed": 38}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696614.6774402, "type": "air", "co2": 1110.6246490914723, "pm10": 27.946921591812984, "pm2_5": 16.525427278566447}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696614.8330958, "type": "air", "co2": 1028.3496486761994, "pm10": 27.88870809441837, "pm2_5": 17.15937507852543}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696615.4550812, "type": "traffic", "vehicles_per_min": 24, "avg_speed": 36}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696615.4743435, "type": "traffic", "vehicles_per_min": 8, "avg_speed": 11}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696615.5270865, "type": "traffic", "vehicles_per_min": 28, "avg_speed": 35}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696615.533251, "type": "traffic", "vehicles_per_min": 26, "avg_speed": 14}}
+{"data": {"sensor_id": 6, "location": "V2.1", "timestamp": 1786696615.672135, "type": "traffic", "vehicles_per_min": 20, "avg_speed": 37}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696615.6857831, "type": "air", "co2": 1481.8942276197504, "pm10": 33.58975424459247, "pm2_5": 12.246800213477314}}
+{"data": {"sensor_id": 9, "location": "B", "timestamp": 1786696615.834378, "type": "air", "co2": 1120.3101162609971, "pm10": 32.26063881663969, "pm2_5": 15.875935443595921}}
+{"data": {"sensor_id": 1, "location": "H1.1", "timestamp": 1786696616.4563003, "type": "traffic", "vehicles_per_min": 2, "avg_speed": 40}}
+{"data": {"sensor_id": 3, "location": "H1.3", "timestamp": 1786696616.475367, "type": "traffic", "vehicles_per_min": 18, "avg_speed": 11}}
+{"data": {"sensor_id": 2, "location": "H1.2", "timestamp": 1786696616.5308232, "type": "traffic", "vehicles_per_min": 6, "avg_speed": 26}}
+{"data": {"sensor_id": 5, "location": "V1.2", "timestamp": 1786696616.5344822, "type": "traffic", "vehicles_per_min": 29, "avg_speed": 12}}
+{"data": {"sensor_id": 8, "location": "A", "timestamp": 1786696616.6984158, "type": "air", "co2": 1316.6387803630164, "pm10": 31.835546944185992, "pm2_5": 14.342521284081728}}

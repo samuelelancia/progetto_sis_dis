@@ -16,6 +16,15 @@ class Logger:
         }
         with open(self.fault_file, "a") as f:
             f.write(json.dumps(entry) + "\n")
+            
+    def log_corrupt_offline(self, timestamp, sensor_id, state):
+        entry = {
+            "timestamp": timestamp,
+            "sensor_id": sensor_id,
+            "state": state
+        }
+        with open(self.fault_file, "a") as f:
+            f.write(json.dumps(entry) + "\n")
 
     def log_data(self, msg):
         entry = {

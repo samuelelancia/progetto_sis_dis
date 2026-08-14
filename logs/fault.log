@@ -1,128 +1,161 @@
-{"timestamp": 1786551748.7823873, "sensor_id": 1, "state": "offline"}
-{"timestamp": 1786551748.8471534, "sensor_id": 1, "state": "offline"}
-{"timestamp": 1786551748.8674455, "sensor_id": 1, "state": "offline"}
-{"timestamp": 1786551748.91755, "sensor_id": 1, "state": "offline"}
-{"timestamp": 1786551748.9225903, "sensor_id": 1, "state": "offline"}
-{"timestamp": 1786551748.940752, "sensor_id": 1, "state": "offline"}
-{"timestamp": 1786551748.9910274, "sensor_id": 1, "state": "offline"}
-{"timestamp": 1786551749.0470839, "sensor_id": 1, "state": "offline"}
-{"timestamp": 1786551749.7816103, "sensor_id": 2, "state": "fault"}
-{"timestamp": 1786551749.8487103, "sensor_id": 1, "state": "offline"}
-{"timestamp": 1786551749.8769975, "sensor_id": 1, "state": "offline"}
-{"timestamp": 1786551749.918003, "sensor_id": 1, "state": "offline"}
-{"timestamp": 1786551749.9238288, "sensor_id": 1, "state": "offline"}
-{"timestamp": 1786551749.9412084, "sensor_id": 1, "state": "offline"}
-{"timestamp": 1786551749.9934921, "sensor_id": 1, "state": "offline"}
-{"timestamp": 1786551750.0472598, "sensor_id": 1, "state": "offline"}
-{"timestamp": 1786551752.9461281, "sensor_id": 7, "state": "fault"}
-{"timestamp": 1786551752.9977045, "sensor_id": 5, "state": "offline"}
-{"timestamp": 1786551753.0506432, "sensor_id": 5, "state": "offline"}
-{"timestamp": 1786551753.7864459, "sensor_id": 5, "state": "offline"}
-{"timestamp": 1786551753.849637, "sensor_id": 3, "state": "corrupt"}
-{"timestamp": 1786551753.8842385, "sensor_id": 5, "state": "offline"}
-{"timestamp": 1786551753.922549, "sensor_id": 5, "state": "offline"}
-{"timestamp": 1786551753.9474013, "sensor_id": 5, "state": "offline"}
-{"timestamp": 1786551753.9958143, "sensor_id": 5, "state": "offline"}
-{"timestamp": 1786551754.7896223, "sensor_id": 1, "state": "offline"}
-{"timestamp": 1786551754.7896223, "sensor_id": 5, "state": "offline"}
-{"timestamp": 1786551754.8511293, "sensor_id": 1, "state": "offline"}
-{"timestamp": 1786551754.8511293, "sensor_id": 5, "state": "offline"}
-{"timestamp": 1786551754.8872647, "sensor_id": 1, "state": "offline"}
-{"timestamp": 1786551754.8872647, "sensor_id": 5, "state": "offline"}
-{"timestamp": 1786551754.9239652, "sensor_id": 1, "state": "offline"}
-{"timestamp": 1786551754.9239652, "sensor_id": 5, "state": "offline"}
-{"timestamp": 1786551754.9278088, "sensor_id": 1, "state": "offline"}
-{"timestamp": 1786551754.9486513, "sensor_id": 1, "state": "offline"}
-{"timestamp": 1786551754.9968488, "sensor_id": 1, "state": "offline"}
-{"timestamp": 1786551755.7904046, "sensor_id": 1, "state": "offline"}
-{"timestamp": 1786551755.7904046, "sensor_id": 9, "state": "offline"}
-{"timestamp": 1786551755.8507106, "sensor_id": 3, "state": "fault"}
-{"timestamp": 1786551755.892112, "sensor_id": 1, "state": "offline"}
-{"timestamp": 1786551755.892112, "sensor_id": 9, "state": "offline"}
-{"timestamp": 1786551755.9259987, "sensor_id": 1, "state": "offline"}
-{"timestamp": 1786551755.9259987, "sensor_id": 9, "state": "offline"}
-{"timestamp": 1786551755.929186, "sensor_id": 5, "state": "fault"}
-{"timestamp": 1786551755.9518158, "sensor_id": 1, "state": "offline"}
-{"timestamp": 1786551755.9518158, "sensor_id": 9, "state": "offline"}
-{"timestamp": 1786551755.9983475, "sensor_id": 1, "state": "offline"}
-{"timestamp": 1786551755.9983475, "sensor_id": 9, "state": "offline"}
-{"timestamp": 1786551756.7639363, "sensor_id": 9, "state": "offline"}
-{"timestamp": 1786551756.7902186, "sensor_id": 2, "state": "corrupt"}
-{"timestamp": 1786551756.8521621, "sensor_id": 9, "state": "offline"}
-{"timestamp": 1786551756.893346, "sensor_id": 4, "state": "fault"}
-{"timestamp": 1786551756.9271517, "sensor_id": 9, "state": "offline"}
-{"timestamp": 1786551756.9315615, "sensor_id": 9, "state": "offline"}
-{"timestamp": 1786551756.956044, "sensor_id": 9, "state": "offline"}
-{"timestamp": 1786551758.0497963, "sensor_id": 9, "state": "fault"}
-{"timestamp": 1786551758.7662523, "sensor_id": 8, "state": "offline"}
-{"timestamp": 1786551758.7939272, "sensor_id": 8, "state": "offline"}
-{"timestamp": 1786551758.854207, "sensor_id": 8, "state": "offline"}
-{"timestamp": 1786551758.8963618, "sensor_id": 8, "state": "offline"}
-{"timestamp": 1786551758.9566417, "sensor_id": 7, "state": "corrupt"}
-{"timestamp": 1786551759.0518453, "sensor_id": 8, "state": "offline"}
-{"timestamp": 1786551759.7665308, "sensor_id": 8, "state": "offline"}
-{"timestamp": 1786551759.7948225, "sensor_id": 8, "state": "offline"}
-{"timestamp": 1786551759.8542216, "sensor_id": 8, "state": "offline"}
-{"timestamp": 1786551759.8985982, "sensor_id": 4, "state": "corrupt"}
-{"timestamp": 1786551759.9588475, "sensor_id": 7, "state": "corrupt"}
-{"timestamp": 1786551760.0030417, "sensor_id": 6, "state": "offline"}
-{"timestamp": 1786551760.0030417, "sensor_id": 5, "state": "offline"}
-{"timestamp": 1786551760.0030417, "sensor_id": 7, "state": "offline"}
-{"timestamp": 1786551760.0525167, "sensor_id": 6, "state": "offline"}
-{"timestamp": 1786551760.0525167, "sensor_id": 5, "state": "offline"}
-{"timestamp": 1786551760.0525167, "sensor_id": 7, "state": "offline"}
-{"timestamp": 1786551760.767567, "sensor_id": 6, "state": "offline"}
-{"timestamp": 1786551760.767567, "sensor_id": 5, "state": "offline"}
-{"timestamp": 1786551760.767567, "sensor_id": 7, "state": "offline"}
-{"timestamp": 1786551760.7952735, "sensor_id": 6, "state": "offline"}
-{"timestamp": 1786551760.7952735, "sensor_id": 5, "state": "offline"}
-{"timestamp": 1786551760.7952735, "sensor_id": 7, "state": "offline"}
-{"timestamp": 1786551760.856905, "sensor_id": 6, "state": "offline"}
-{"timestamp": 1786551760.856905, "sensor_id": 5, "state": "offline"}
-{"timestamp": 1786551760.856905, "sensor_id": 7, "state": "offline"}
-{"timestamp": 1786551760.9002376, "sensor_id": 6, "state": "offline"}
-{"timestamp": 1786551760.9002376, "sensor_id": 5, "state": "offline"}
-{"timestamp": 1786551760.9002376, "sensor_id": 7, "state": "offline"}
-{"timestamp": 1786551760.9614692, "sensor_id": 6, "state": "offline"}
-{"timestamp": 1786551760.9614692, "sensor_id": 5, "state": "offline"}
-{"timestamp": 1786551761.0045118, "sensor_id": 6, "state": "offline"}
-{"timestamp": 1786551761.0045118, "sensor_id": 5, "state": "offline"}
-{"timestamp": 1786551761.0545466, "sensor_id": 6, "state": "offline"}
-{"timestamp": 1786551761.0545466, "sensor_id": 5, "state": "offline"}
-{"timestamp": 1786551761.7685137, "sensor_id": 6, "state": "offline"}
-{"timestamp": 1786551761.7685137, "sensor_id": 5, "state": "offline"}
-{"timestamp": 1786551761.8579113, "sensor_id": 6, "state": "offline"}
-{"timestamp": 1786551761.8579113, "sensor_id": 5, "state": "offline"}
-{"timestamp": 1786551761.9016316, "sensor_id": 6, "state": "offline"}
-{"timestamp": 1786551761.9016316, "sensor_id": 5, "state": "offline"}
-{"timestamp": 1786551761.9310353, "sensor_id": 5, "state": "offline"}
-{"timestamp": 1786551761.962116, "sensor_id": 5, "state": "offline"}
-{"timestamp": 1786551762.005485, "sensor_id": 5, "state": "offline"}
-{"timestamp": 1786551762.054036, "sensor_id": 9, "state": "corrupt"}
-{"timestamp": 1786551762.8602772, "sensor_id": 2, "state": "offline"}
-{"timestamp": 1786551762.8602772, "sensor_id": 5, "state": "offline"}
-{"timestamp": 1786551762.9085846, "sensor_id": 2, "state": "offline"}
-{"timestamp": 1786551762.9085846, "sensor_id": 5, "state": "offline"}
-{"timestamp": 1786551762.9334538, "sensor_id": 2, "state": "offline"}
-{"timestamp": 1786551762.9334538, "sensor_id": 5, "state": "offline"}
-{"timestamp": 1786551762.9700708, "sensor_id": 2, "state": "offline"}
-{"timestamp": 1786551762.9700708, "sensor_id": 5, "state": "offline"}
-{"timestamp": 1786551763.0078592, "sensor_id": 2, "state": "offline"}
-{"timestamp": 1786551763.0078592, "sensor_id": 5, "state": "offline"}
-{"timestamp": 1786551763.0573726, "sensor_id": 2, "state": "offline"}
-{"timestamp": 1786551763.0573726, "sensor_id": 5, "state": "offline"}
-{"timestamp": 1786551763.8619018, "sensor_id": 1, "state": "offline"}
-{"timestamp": 1786551763.8619018, "sensor_id": 2, "state": "offline"}
-{"timestamp": 1786551763.8619018, "sensor_id": 5, "state": "offline"}
-{"timestamp": 1786551763.9095223, "sensor_id": 1, "state": "offline"}
-{"timestamp": 1786551763.9095223, "sensor_id": 2, "state": "offline"}
-{"timestamp": 1786551763.9095223, "sensor_id": 5, "state": "offline"}
-{"timestamp": 1786551763.9331195, "sensor_id": 1, "state": "offline"}
-{"timestamp": 1786551763.9331195, "sensor_id": 2, "state": "offline"}
-{"timestamp": 1786551763.9331195, "sensor_id": 5, "state": "offline"}
-{"timestamp": 1786551764.0078695, "sensor_id": 1, "state": "offline"}
-{"timestamp": 1786551764.0078695, "sensor_id": 2, "state": "offline"}
-{"timestamp": 1786551764.0078695, "sensor_id": 5, "state": "offline"}
-{"timestamp": 1786551764.0580056, "sensor_id": 1, "state": "offline"}
-{"timestamp": 1786551764.0580056, "sensor_id": 2, "state": "offline"}
-{"timestamp": 1786551764.0580056, "sensor_id": 5, "state": "offline"}
+{"timestamp": 1786696293.6671011, "sensor_id": 4, "state": "fault", "number_of_faults": 1}
+{"timestamp": 1786696454.227322, "sensor_id": 5, "state": "fault", "number_of_faults": 1}
+{"timestamp": 1786696459.3469336, "sensor_id": 9, "state": "offline"}
+{"timestamp": 1786696460.1701844, "sensor_id": 1, "state": "offline"}
+{"timestamp": 1786696460.256064, "sensor_id": 4, "state": "offline"}
+{"timestamp": 1786696462.198945, "sensor_id": 2, "state": "offline"}
+{"timestamp": 1786696465.258448, "sensor_id": 4, "state": "offline"}
+{"timestamp": 1786696465.2658741, "sensor_id": 6, "state": "fault", "number_of_faults": 1}
+{"timestamp": 1786696465.308964, "sensor_id": 7, "state": "fault", "number_of_faults": 1}
+{"timestamp": 1786696579.3099108, "sensor_id": 8, "state": "fault", "number_of_faults": 1}
+{"timestamp": 1786696579.357395, "sensor_id": 8, "state": "fault", "number_of_faults": 2}
+{"timestamp": 1786696579.3624911, "sensor_id": 8, "state": "fault", "number_of_faults": 3}
+{"timestamp": 1786696579.3809247, "sensor_id": 8, "state": "fault", "number_of_faults": 4}
+{"timestamp": 1786696579.4954455, "sensor_id": 1, "state": "corrupt"}
+{"timestamp": 1786696579.504246, "sensor_id": 2, "state": "fault", "number_of_faults": 1}
+{"timestamp": 1786696579.513514, "sensor_id": 1, "state": "corrupt"}
+{"timestamp": 1786696579.521262, "sensor_id": 2, "state": "corrupt"}
+{"timestamp": 1786696579.5359375, "sensor_id": 7, "state": "corrupt"}
+{"timestamp": 1786696579.5816033, "sensor_id": 7, "state": "corrupt"}
+{"timestamp": 1786696579.608008, "sensor_id": 2, "state": "fault", "number_of_faults": 2}
+{"timestamp": 1786696579.6255577, "sensor_id": 1, "state": "fault", "number_of_faults": 1}
+{"timestamp": 1786696579.6438124, "sensor_id": 6, "state": "corrupt"}
+{"timestamp": 1786696579.6606083, "sensor_id": 7, "state": "fault", "number_of_faults": 1}
+{"timestamp": 1786696579.6775649, "sensor_id": 9, "state": "corrupt"}
+{"timestamp": 1786696579.6880682, "sensor_id": 9, "state": "fault", "number_of_faults": 1}
+{"timestamp": 1786696579.709465, "sensor_id": 9, "state": "fault", "number_of_faults": 2}
+{"timestamp": 1786696579.7576058, "sensor_id": 5, "state": "corrupt"}
+{"timestamp": 1786696579.759285, "sensor_id": 3, "state": "fault", "number_of_faults": 1}
+{"timestamp": 1786696579.7752512, "sensor_id": 9, "state": "fault", "number_of_faults": 3}
+{"timestamp": 1786696579.9441237, "sensor_id": 7, "state": "corrupt"}
+{"timestamp": 1786696579.9761238, "sensor_id": 6, "state": "fault", "number_of_faults": 1}
+{"timestamp": 1786696579.9895198, "sensor_id": 1, "state": "fault", "number_of_faults": 2}
+{"timestamp": 1786696579.9951031, "sensor_id": 7, "state": "fault", "number_of_faults": 2}
+{"timestamp": 1786696580.0894756, "sensor_id": 3, "state": "corrupt"}
+{"timestamp": 1786696580.0944498, "sensor_id": 7, "state": "corrupt"}
+{"timestamp": 1786696580.0993366, "sensor_id": 6, "state": "corrupt"}
+{"timestamp": 1786696580.1343033, "sensor_id": 6, "state": "fault", "number_of_faults": 2}
+{"timestamp": 1786696580.275872, "sensor_id": 7, "state": "fault", "number_of_faults": 3}
+{"timestamp": 1786696580.487228, "sensor_id": 9, "state": "fault", "number_of_faults": 4}
+{"timestamp": 1786696580.559747, "sensor_id": 7, "state": "corrupt"}
+{"timestamp": 1786696580.6023219, "sensor_id": 3, "state": "corrupt"}
+{"timestamp": 1786696580.6191118, "sensor_id": 2, "state": "corrupt"}
+{"timestamp": 1786696580.622597, "sensor_id": 9, "state": "corrupt"}
+{"timestamp": 1786696580.6273282, "sensor_id": 3, "state": "fault", "number_of_faults": 2}
+{"timestamp": 1786696580.6947634, "sensor_id": 7, "state": "corrupt"}
+{"timestamp": 1786696580.7018788, "sensor_id": 6, "state": "fault", "number_of_faults": 3}
+{"timestamp": 1786696580.7237875, "sensor_id": 2, "state": "fault", "number_of_faults": 3}
+{"timestamp": 1786696580.7662492, "sensor_id": 3, "state": "fault", "number_of_faults": 3}
+{"timestamp": 1786696580.7850454, "sensor_id": 5, "state": "corrupt"}
+{"timestamp": 1786696580.8058634, "sensor_id": 5, "state": "corrupt"}
+{"timestamp": 1786696580.8408525, "sensor_id": 6, "state": "corrupt"}
+{"timestamp": 1786696580.843459, "sensor_id": 5, "state": "fault", "number_of_faults": 1}
+{"timestamp": 1786696580.9931397, "sensor_id": 1, "state": "corrupt"}
+{"timestamp": 1786696581.0069687, "sensor_id": 7, "state": "fault", "number_of_faults": 4}
+{"timestamp": 1786696581.0192559, "sensor_id": 9, "state": "fault", "number_of_faults": 5}
+{"timestamp": 1786696581.0523098, "sensor_id": 7, "state": "corrupt"}
+{"timestamp": 1786696581.059455, "sensor_id": 2, "state": "corrupt"}
+{"timestamp": 1786696581.2336953, "sensor_id": 1, "state": "fault", "number_of_faults": 3}
+{"timestamp": 1786696581.2932065, "sensor_id": 1, "state": "fault", "number_of_faults": 4}
+{"timestamp": 1786696581.3551893, "sensor_id": 6, "state": "corrupt"}
+{"timestamp": 1786696581.367565, "sensor_id": 5, "state": "corrupt"}
+{"timestamp": 1786696581.5746572, "sensor_id": 7, "state": "fault", "number_of_faults": 5}
+{"timestamp": 1786696581.6637564, "sensor_id": 9, "state": "corrupt"}
+{"timestamp": 1786696581.681194, "sensor_id": 4, "state": "corrupt"}
+{"timestamp": 1786696581.7446964, "sensor_id": 5, "state": "corrupt"}
+{"timestamp": 1786696581.817392, "sensor_id": 5, "state": "fault", "number_of_faults": 2}
+{"timestamp": 1786696582.3117745, "sensor_id": 4, "state": "fault", "number_of_faults": 1}
+{"timestamp": 1786696582.3534307, "sensor_id": 7, "state": "fault", "number_of_faults": 6}
+{"timestamp": 1786696582.4364054, "sensor_id": 3, "state": "corrupt"}
+{"timestamp": 1786696582.4612472, "sensor_id": 6, "state": "corrupt"}
+{"timestamp": 1786696582.473035, "sensor_id": 4, "state": "fault", "number_of_faults": 2}
+{"timestamp": 1786696582.477405, "sensor_id": 7, "state": "fault", "number_of_faults": 7}
+{"timestamp": 1786696582.4912646, "sensor_id": 3, "state": "fault", "number_of_faults": 4}
+{"timestamp": 1786696582.5059998, "sensor_id": 6, "state": "fault", "number_of_faults": 4}
+{"timestamp": 1786696582.533439, "sensor_id": 2, "state": "fault", "number_of_faults": 4}
+{"timestamp": 1786696582.5496302, "sensor_id": 1, "state": "corrupt"}
+{"timestamp": 1786696582.5645807, "sensor_id": 3, "state": "fault", "number_of_faults": 5}
+{"timestamp": 1786696582.5861528, "sensor_id": 5, "state": "fault", "number_of_faults": 3}
+{"timestamp": 1786696582.6128037, "sensor_id": 1, "state": "fault", "number_of_faults": 5}
+{"timestamp": 1786696582.6633782, "sensor_id": 1, "state": "corrupt"}
+{"timestamp": 1786696582.6736977, "sensor_id": 9, "state": "corrupt"}
+{"timestamp": 1786696582.7023246, "sensor_id": 9, "state": "corrupt"}
+{"timestamp": 1786696582.7065773, "sensor_id": 5, "state": "corrupt"}
+{"timestamp": 1786696582.7187734, "sensor_id": 1, "state": "fault", "number_of_faults": 6}
+{"timestamp": 1786696582.7597184, "sensor_id": 3, "state": "fault", "number_of_faults": 6}
+{"timestamp": 1786696582.774269, "sensor_id": 6, "state": "fault", "number_of_faults": 5}
+{"timestamp": 1786696582.78261, "sensor_id": 5, "state": "fault", "number_of_faults": 4}
+{"timestamp": 1786696582.794827, "sensor_id": 7, "state": "fault", "number_of_faults": 8}
+{"timestamp": 1786696582.84192, "sensor_id": 1, "state": "corrupt"}
+{"timestamp": 1786696582.8457065, "sensor_id": 2, "state": "corrupt"}
+{"timestamp": 1786696582.849899, "sensor_id": 6, "state": "fault", "number_of_faults": 6}
+{"timestamp": 1786696582.9372315, "sensor_id": 4, "state": "fault", "number_of_faults": 3}
+{"timestamp": 1786696582.949069, "sensor_id": 6, "state": "corrupt"}
+{"timestamp": 1786696582.955034, "sensor_id": 5, "state": "corrupt"}
+{"timestamp": 1786696582.9890227, "sensor_id": 4, "state": "fault", "number_of_faults": 4}
+{"timestamp": 1786696583.1128974, "sensor_id": 4, "state": "fault", "number_of_faults": 5}
+{"timestamp": 1786696583.1386907, "sensor_id": 6, "state": "corrupt"}
+{"timestamp": 1786696583.2357864, "sensor_id": 1, "state": "fault", "number_of_faults": 7}
+{"timestamp": 1786696583.2625782, "sensor_id": 3, "state": "corrupt"}
+{"timestamp": 1786696583.2910013, "sensor_id": 7, "state": "corrupt"}
+{"timestamp": 1786696583.3451707, "sensor_id": 5, "state": "corrupt"}
+{"timestamp": 1786696583.3547254, "sensor_id": 2, "state": "corrupt"}
+{"timestamp": 1786696583.3745909, "sensor_id": 2, "state": "corrupt"}
+{"timestamp": 1786696583.4007978, "sensor_id": 9, "state": "fault", "number_of_faults": 6}
+{"timestamp": 1786696583.4687183, "sensor_id": 3, "state": "corrupt"}
+{"timestamp": 1786696583.5002873, "sensor_id": 5, "state": "fault", "number_of_faults": 5}
+{"timestamp": 1786696583.5215793, "sensor_id": 4, "state": "fault", "number_of_faults": 6}
+{"timestamp": 1786696583.5251164, "sensor_id": 5, "state": "fault", "number_of_faults": 6}
+{"timestamp": 1786696583.5879798, "sensor_id": 4, "state": "fault", "number_of_faults": 7}
+{"timestamp": 1786696585.4363668, "sensor_id": 4, "state": "fault", "number_of_faults": 8}
+{"timestamp": 1786696585.5825083, "sensor_id": 3, "state": "offline"}
+{"timestamp": 1786696585.7417371, "sensor_id": 8, "state": "offline"}
+{"timestamp": 1786696586.5833976, "sensor_id": 7, "state": "corrupt"}
+{"timestamp": 1786696587.5857904, "sensor_id": 7, "state": "offline"}
+{"timestamp": 1786696587.5857904, "sensor_id": 5, "state": "offline"}
+{"timestamp": 1786696588.44942, "sensor_id": 1, "state": "offline"}
+{"timestamp": 1786696589.4484737, "sensor_id": 4, "state": "offline"}
+{"timestamp": 1786696589.6003525, "sensor_id": 7, "state": "offline"}
+{"timestamp": 1786696591.5869188, "sensor_id": 7, "state": "corrupt"}
+{"timestamp": 1786696591.6096616, "sensor_id": 6, "state": "fault", "number_of_faults": 7}
+{"timestamp": 1786696591.6397, "sensor_id": 8, "state": "fault", "number_of_faults": 5}
+{"timestamp": 1786696591.746292, "sensor_id": 9, "state": "corrupt"}
+{"timestamp": 1786696592.6102667, "sensor_id": 6, "state": "corrupt"}
+{"timestamp": 1786696594.4452708, "sensor_id": 4, "state": "corrupt"}
+{"timestamp": 1786696594.5092402, "sensor_id": 5, "state": "fault", "number_of_faults": 7}
+{"timestamp": 1786696594.7502754, "sensor_id": 9, "state": "corrupt"}
+{"timestamp": 1786696597.6186538, "sensor_id": 6, "state": "corrupt"}
+{"timestamp": 1786696598.4496584, "sensor_id": 4, "state": "corrupt"}
+{"timestamp": 1786696598.5061755, "sensor_id": 2, "state": "corrupt"}
+{"timestamp": 1786696598.7579648, "sensor_id": 8, "state": "offline"}
+{"timestamp": 1786696599.5150442, "sensor_id": 5, "state": "corrupt"}
+{"timestamp": 1786696600.461015, "sensor_id": 3, "state": "corrupt"}
+{"timestamp": 1786696600.5089338, "sensor_id": 2, "state": "corrupt"}
+{"timestamp": 1786696601.6056786, "sensor_id": 7, "state": "fault", "number_of_faults": 9}
+{"timestamp": 1786696601.6475294, "sensor_id": 8, "state": "corrupt"}
+{"timestamp": 1786696602.6260061, "sensor_id": 5, "state": "offline"}
+{"timestamp": 1786696602.7601779, "sensor_id": 9, "state": "fault", "number_of_faults": 7}
+{"timestamp": 1786696603.6253467, "sensor_id": 6, "state": "corrupt"}
+{"timestamp": 1786696603.652123, "sensor_id": 7, "state": "offline"}
+{"timestamp": 1786696604.5137184, "sensor_id": 2, "state": "fault", "number_of_faults": 5}
+{"timestamp": 1786696605.4572499, "sensor_id": 4, "state": "fault", "number_of_faults": 9}
+{"timestamp": 1786696605.46688, "sensor_id": 3, "state": "fault", "number_of_faults": 7}
+{"timestamp": 1786696606.4487278, "sensor_id": 1, "state": "fault", "number_of_faults": 8}
+{"timestamp": 1786696607.6693962, "sensor_id": 8, "state": "corrupt"}
+{"timestamp": 1786696607.7905085, "sensor_id": 9, "state": "fault", "number_of_faults": 8}
+{"timestamp": 1786696608.4690537, "sensor_id": 4, "state": "fault", "number_of_faults": 10}
+{"timestamp": 1786696608.516975, "sensor_id": 2, "state": "fault", "number_of_faults": 6}
+{"timestamp": 1786696608.8154125, "sensor_id": 9, "state": "corrupt"}
+{"timestamp": 1786696609.4722207, "sensor_id": 3, "state": "offline"}
+{"timestamp": 1786696609.6156101, "sensor_id": 7, "state": "corrupt"}
+{"timestamp": 1786696610.4737823, "sensor_id": 1, "state": "offline"}
+{"timestamp": 1786696610.6699557, "sensor_id": 8, "state": "fault", "number_of_faults": 6}
+{"timestamp": 1786696613.618854, "sensor_id": 7, "state": "corrupt"}
+{"timestamp": 1786696613.6711175, "sensor_id": 6, "state": "fault", "number_of_faults": 8}
+{"timestamp": 1786696614.4552212, "sensor_id": 1, "state": "fault", "number_of_faults": 9}
+{"timestamp": 1786696615.480464, "sensor_id": 4, "state": "corrupt"}
+{"timestamp": 1786696615.6205266, "sensor_id": 7, "state": "corrupt"}
+{"timestamp": 1786696616.4832428, "sensor_id": 4, "state": "fault", "number_of_faults": 11}
+{"timestamp": 1786696616.685675, "sensor_id": 6, "state": "corrupt"}
+{"timestamp": 1786696616.7021246, "sensor_id": 7, "state": "offline"}
+{"timestamp": 1786696616.836447, "sensor_id": 9, "state": "corrupt"}
